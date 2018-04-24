@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
-<identifier type="local">cw010101</identifier>
+<identifier type="local">0012_000458_000001</identifier>
+<identifier type="cw">cw010101</identifier>
 <identifier type="pid">acwiley:280</identifier>
 <identifier type="spc">record_spc_4946</identifier>
 <titleInfo><title>Pencil drawn portrait study of woman</title></titleInfo>
@@ -10,7 +11,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147554"><topic>Women in art</topic></subject>
 
-<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961"><topic>Figure drawings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008085"><topic>Portraits</topic></subject>
 
 <name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
 <language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
@@ -24,17 +25,18 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010102</identifier>
+<identifier type="local">0012_000458_000002</identifier>
+<identifier type="cw">cw010102</identifier>
 <identifier type="pid">acwiley:281</identifier>
 <identifier type="spc">record_spc_4947</identifier>
-<titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
+<titleInfo><title>Self portrait</title></titleInfo>
 <abstract>Portrait study, pencils</abstract>
 <originInfo><dateCreated qualifier="approximate">1895-1897</dateCreated><dateCreated encoding="edtf" keyDate="yes" point="start">1895</dateCreated><dateCreated encoding="edtf" keyDate="yes" point="end">1897</dateCreated></originInfo>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147554"><topic>Women in art</topic></subject>
-
-<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961"><topic>Figure drawings</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85119780"><topic>Self-portraits</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008085"><topic>Portraits</topic></subject>
 
 <name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
 <language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
@@ -48,7 +50,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010103</identifier>
+<identifier type="local">0012_000458_000003</identifier>
+<identifier type="cw">cw010103</identifier>
 <identifier type="pid">acwiley:282</identifier>
 <identifier type="spc">record_spc_4948</identifier>
 <titleInfo><title>Pencil drawn portrait study of woman</title></titleInfo>
@@ -58,7 +61,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147554"><topic>Women in art</topic></subject>
 
-<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961"><topic>Figure drawings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008085"><topic>Portraits</topic></subject>
 
 <name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
 <language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
@@ -72,7 +75,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010104</identifier>
+<identifier type="local">0012_000458_000004</identifier>
+<identifier type="cw">cw010104</identifier>
 <identifier type="pid">acwiley:283</identifier>
 <identifier type="spc">record_spc_4949</identifier>
 <titleInfo><title>Pencil drawn portrait study of woman</title></titleInfo>
@@ -82,7 +86,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147554"><topic>Women in art</topic></subject>
 
-<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961"><topic>Figure drawings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008085"><topic>Portraits</topic></subject>
 
 <name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
 <language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
@@ -96,7 +100,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010105</identifier>
+<identifier type="local">0012_000458_000005</identifier>
+<identifier type="cw">cw010105</identifier>
 <identifier type="pid">acwiley:284</identifier>
 <identifier type="spc">record_spc_4950</identifier>
 <titleInfo><title>Pencil drawing of animal</title></titleInfo>
@@ -120,7 +125,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010106</identifier>
+<identifier type="local">0012_000458_000006</identifier>
+<identifier type="cw">cw010106</identifier>
 <identifier type="pid">acwiley:285</identifier>
 <identifier type="spc">record_spc_4951</identifier>
 <titleInfo><title>Charcoal drawn portrait study of woman</title></titleInfo>
@@ -130,7 +136,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147554"><topic>Women in art</topic></subject>
 
-<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961"><topic>Figure drawings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008085"><topic>Portraits</topic></subject>
 
 <name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
 <language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
@@ -144,7 +150,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010107</identifier>
+<identifier type="local">0012_000458_000007</identifier>
+<identifier type="cw">cw010107</identifier>
 <identifier type="pid">acwiley:286</identifier>
 <identifier type="spc">record_spc_4952</identifier>
 <titleInfo><title>Charcoal drawn portrait study of woman</title></titleInfo>
@@ -154,7 +161,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147554"><topic>Women in art</topic></subject>
 
-<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961"><topic>Figure drawings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008085"><topic>Portraits</topic></subject>
 
 <name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
 <language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
@@ -168,7 +175,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010109</identifier>
+<identifier type="local">0012_000458_000008</identifier>
+<identifier type="cw">cw010109</identifier>
 <identifier type="pid">acwiley:287</identifier>
 <identifier type="spc">record_spc_4953</identifier>
 <titleInfo><title>Pencil drawn portrait study of woman</title></titleInfo>
@@ -178,7 +186,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147554"><topic>Women in art</topic></subject>
 
-<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961"><topic>Figure drawings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008085"><topic>Portraits</topic></subject>
 
 <name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
 <language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
@@ -192,7 +200,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010110</identifier>
+<identifier type="local">0012_000458_000009</identifier>
+<identifier type="cw">cw010110</identifier>
 <identifier type="pid">acwiley:288</identifier>
 <identifier type="spc">record_spc_4954</identifier>
 <titleInfo><title>Pencil drawn portrait study of woman</title></titleInfo>
@@ -202,7 +211,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147554"><topic>Women in art</topic></subject>
 
-<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961"><topic>Figure drawings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008085"><topic>Portraits</topic></subject>
 
 <name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
 <language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
@@ -216,7 +225,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010111</identifier>
+<identifier type="local">0012_000458_000010</identifier>
+<identifier type="cw">cw010111</identifier>
 <identifier type="pid">acwiley:289</identifier>
 <identifier type="spc">record_spc_4955</identifier>
 <titleInfo><title>Pencil drawing of trees and plants</title></titleInfo>
@@ -240,7 +250,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010212</identifier>
+<identifier type="local">0012_000458_000011</identifier>
+<identifier type="cw">cw010212</identifier>
 <identifier type="pid">acwiley:290</identifier>
 <identifier type="spc">record_spc_4956</identifier>
 <titleInfo><title>Pencil drawn portrait study of man</title></titleInfo>
@@ -250,7 +261,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85083526"><topic>Men in art</topic></subject>
 
-<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961"><topic>Figure drawings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008085"><topic>Portraits</topic></subject>
 
 <name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
 <language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
@@ -264,7 +275,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010213</identifier>
+<identifier type="local">0012_000458_000012</identifier>
+<identifier type="cw">cw010213</identifier>
 <identifier type="pid">acwiley:291</identifier>
 <identifier type="spc">record_spc_4957</identifier>
 <titleInfo><title>Charcoal drawn portrait study of man</title></titleInfo>
@@ -274,7 +286,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85083526"><topic>Men in art</topic></subject>
 
-<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961"><topic>Figure drawings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008085"><topic>Portraits</topic></subject>
 
 <name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
 <language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
@@ -288,7 +300,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010214</identifier>
+<identifier type="local">0012_000458_000013</identifier>
+<identifier type="cw">cw010214</identifier>
 <identifier type="pid">acwiley:292</identifier>
 <identifier type="spc">record_spc_4958</identifier>
 <titleInfo><title>Charcoal drawn portrait study of man</title></titleInfo>
@@ -298,7 +311,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85083526"><topic>Men in art</topic></subject>
 
-<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961"><topic>Figure drawings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008085"><topic>Portraits</topic></subject>
 
 <name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
 <language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
@@ -312,7 +325,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010215</identifier>
+<identifier type="local">0012_000458_000014</identifier>
+<identifier type="cw">cw010215</identifier>
 <identifier type="pid">acwiley:293</identifier>
 <identifier type="spc">record_spc_4959</identifier>
 <titleInfo><title>Pencil drawn portrait study of man</title></titleInfo>
@@ -322,7 +336,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85083526"><topic>Men in art</topic></subject>
 
-<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961"><topic>Figure drawings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008085"><topic>Portraits</topic></subject>
 
 <name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
 <language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
@@ -336,7 +350,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010216</identifier>
+<identifier type="local">0012_000458_000015</identifier>
+<identifier type="cw">cw010216</identifier>
 <identifier type="pid">acwiley:294</identifier>
 <identifier type="spc">record_spc_4960</identifier>
 <titleInfo><title>Pencil drawn portrait study of man</title></titleInfo>
@@ -346,7 +361,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85083526"><topic>Men in art</topic></subject>
 
-<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961"><topic>Figure drawings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008085"><topic>Portraits</topic></subject>
 
 <name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
 <language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
@@ -360,7 +375,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010217</identifier>
+<identifier type="local">0012_000458_000016</identifier>
+<identifier type="cw">cw010217</identifier>
 <identifier type="pid">acwiley:295</identifier>
 <identifier type="spc">record_spc_4961</identifier>
 <titleInfo><title>Charcoal drawn portrait study of man</title></titleInfo>
@@ -370,7 +386,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85083526"><topic>Men in art</topic></subject>
 
-<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961"><topic>Figure drawings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008085"><topic>Portraits</topic></subject>
 
 <name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
 <language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
@@ -384,7 +400,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010218</identifier>
+<identifier type="local">0012_000458_000017</identifier>
+<identifier type="cw">cw010218</identifier>
 <identifier type="pid">acwiley:296</identifier>
 <identifier type="spc">record_spc_4962</identifier>
 <titleInfo><title>Pencil drawn portrait study of man</title></titleInfo>
@@ -394,7 +411,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85083526"><topic>Men in art</topic></subject>
 
-<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961"><topic>Figure drawings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008085"><topic>Portraits</topic></subject>
 
 <name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
 <language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
@@ -408,7 +425,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010219</identifier>
+<identifier type="local">0012_000458_000018</identifier>
+<identifier type="cw">cw010219</identifier>
 <identifier type="pid">acwiley:297</identifier>
 <identifier type="spc">record_spc_4963</identifier>
 <titleInfo><title>Pencil drawn portrait study of a woman</title></titleInfo>
@@ -418,7 +436,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85083526"><topic>Men in art</topic></subject>
 
-<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961"><topic>Figure drawings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008085"><topic>Portraits</topic></subject>
 
 <name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
 <language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
@@ -432,7 +450,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010320</identifier>
+<identifier type="local">0012_000458_000019</identifier>
+<identifier type="cw">cw010320</identifier>
 <identifier type="pid">acwiley:298</identifier>
 <identifier type="spc">record_spc_4964</identifier>
 <titleInfo><title>Pencil drawn portrait study of a child</title></titleInfo>
@@ -442,7 +461,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85023533"><topic>Children in art</topic></subject>
 
-<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961"><topic>Figure drawings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008085"><topic>Portraits</topic></subject>
 
 <name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
 <language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
@@ -456,7 +475,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010321</identifier>
+<identifier type="local">0012_000458_000020</identifier>
+<identifier type="cw">cw010321</identifier>
 <identifier type="pid">acwiley:299</identifier>
 <identifier type="spc">record_spc_4965</identifier>
 <titleInfo><title>Pencil drawn portrait study of a child</title></titleInfo>
@@ -466,7 +486,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85023533"><topic>Children in art</topic></subject>
 
-<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961"><topic>Figure drawings</topic></subject>
+<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008085"><topic>Portraits</topic></subject>
 
 <name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
 <language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
@@ -480,7 +500,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010433</identifier>
+<identifier type="local">0012_000458_000021</identifier>
+<identifier type="cw">cw010433</identifier>
 <identifier type="pid">acwiley:300</identifier>
 <identifier type="spc">record_spc_4810</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -504,7 +525,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010434</identifier>
+<identifier type="local">0012_000458_000022</identifier>
+<identifier type="cw">cw010434</identifier>
 <identifier type="pid">acwiley:301</identifier>
 <identifier type="spc">record_spc_4811</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -528,7 +550,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010435</identifier>
+<identifier type="local">0012_000458_000023</identifier>
+<identifier type="cw">cw010435</identifier>
 <identifier type="pid">acwiley:302</identifier>
 <identifier type="spc">record_spc_4812</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -552,7 +575,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010436</identifier>
+<identifier type="local">0012_000458_000024</identifier>
+<identifier type="cw">cw010436</identifier>
 <identifier type="pid">acwiley:303</identifier>
 <identifier type="spc">record_spc_4813</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -576,7 +600,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010437</identifier>
+<identifier type="local">0012_000458_000025</identifier>
+<identifier type="cw">cw010437</identifier>
 <identifier type="pid">acwiley:304</identifier>
 <identifier type="spc">record_spc_4814</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -600,7 +625,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010438</identifier>
+<identifier type="local">0012_000458_000026</identifier>
+<identifier type="cw">cw010438</identifier>
 <identifier type="pid">acwiley:305</identifier>
 <identifier type="spc">record_spc_4815</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -624,7 +650,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010439</identifier>
+<identifier type="local">0012_000458_000027</identifier>
+<identifier type="cw">cw010439</identifier>
 <identifier type="pid">acwiley:306</identifier>
 <identifier type="spc">record_spc_4816</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -648,7 +675,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010440</identifier>
+<identifier type="local">0012_000458_000028</identifier>
+<identifier type="cw">cw010440</identifier>
 <identifier type="pid">acwiley:307</identifier>
 <identifier type="spc">record_spc_4817</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -672,7 +700,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010441</identifier>
+<identifier type="local">0012_000458_000029</identifier>
+<identifier type="cw">cw010441</identifier>
 <identifier type="pid">acwiley:308</identifier>
 <identifier type="spc">record_spc_4818</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -696,7 +725,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010442</identifier>
+<identifier type="local">0012_000458_000030</identifier>
+<identifier type="cw">cw010442</identifier>
 <identifier type="pid">acwiley:309</identifier>
 <identifier type="spc">record_spc_4819</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -720,7 +750,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010443</identifier>
+<identifier type="local">0012_000458_000031</identifier>
+<identifier type="cw">cw010443</identifier>
 <identifier type="pid">acwiley:310</identifier>
 <identifier type="spc">record_spc_4820</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -744,7 +775,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010522</identifier>
+<identifier type="local">0012_000458_000032</identifier>
+<identifier type="cw">cw010522</identifier>
 <identifier type="pid">acwiley:311</identifier>
 <identifier type="spc">record_spc_4821</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -768,7 +800,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010523</identifier>
+<identifier type="local">0012_000458_000033</identifier>
+<identifier type="cw">cw010523</identifier>
 <identifier type="pid">acwiley:312</identifier>
 <identifier type="spc">record_spc_4822</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -792,7 +825,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010524</identifier>
+<identifier type="local">0012_000458_000034</identifier>
+<identifier type="cw">cw010524</identifier>
 <identifier type="pid">acwiley:313</identifier>
 <identifier type="spc">record_spc_4823</identifier>
 <titleInfo><title>Pencil drawn figure drawing of woman</title></titleInfo>
@@ -816,7 +850,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010525</identifier>
+<identifier type="local">0012_000458_000035</identifier>
+<identifier type="cw">cw010525</identifier>
 <identifier type="pid">acwiley:314</identifier>
 <identifier type="spc">record_spc_4824</identifier>
 <titleInfo><title>Charcoal figure drawing of woman sitting</title></titleInfo>
@@ -840,7 +875,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010526</identifier>
+<identifier type="local">0012_000458_000036</identifier>
+<identifier type="cw">cw010526</identifier>
 <identifier type="pid">acwiley:315</identifier>
 <identifier type="spc">record_spc_4825</identifier>
 <titleInfo><title>Charcoal figure drawing of woman standing</title></titleInfo>
@@ -864,7 +900,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010527</identifier>
+<identifier type="local">0012_000458_000037</identifier>
+<identifier type="cw">cw010527</identifier>
 <identifier type="pid">acwiley:316</identifier>
 <identifier type="spc">record_spc_4826</identifier>
 <titleInfo><title>Pencil drawn figure drawing of woman standing</title></titleInfo>
@@ -888,7 +925,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010528</identifier>
+<identifier type="local">0012_000458_000038</identifier>
+<identifier type="cw">cw010528</identifier>
 <identifier type="pid">acwiley:317</identifier>
 <identifier type="spc">record_spc_4827</identifier>
 <titleInfo><title>Pencil drawn figure of man</title></titleInfo>
@@ -912,7 +950,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010529</identifier>
+<identifier type="local">0012_000458_000039</identifier>
+<identifier type="cw">cw010529</identifier>
 <identifier type="pid">acwiley:318</identifier>
 <identifier type="spc">record_spc_4828</identifier>
 <titleInfo><title>Pencil drawn figure drawing of woman standing</title></titleInfo>
@@ -936,7 +975,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010530</identifier>
+<identifier type="local">0012_000458_000040</identifier>
+<identifier type="cw">cw010530</identifier>
 <identifier type="pid">acwiley:319</identifier>
 <identifier type="spc">record_spc_4829</identifier>
 <titleInfo><title>Pencil drawn figure drawing of woman sitting</title></titleInfo>
@@ -960,7 +1000,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010531</identifier>
+<identifier type="local">0012_000458_000041</identifier>
+<identifier type="cw">cw010531</identifier>
 <identifier type="pid">acwiley:320</identifier>
 <identifier type="spc">record_spc_4830</identifier>
 <titleInfo><title>Pencil drawn figure drawing of woman standing</title></titleInfo>
@@ -984,7 +1025,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010532</identifier>
+<identifier type="local">0012_000458_000042</identifier>
+<identifier type="cw">cw010532</identifier>
 <identifier type="pid">acwiley:321</identifier>
 <identifier type="spc">record_spc_4831</identifier>
 <titleInfo><title>Pencil drawn figure drawing of woman sitting</title></titleInfo>
@@ -1008,7 +1050,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010644</identifier>
+<identifier type="local">0012_000458_000043</identifier>
+<identifier type="cw">cw010644</identifier>
 <identifier type="pid">acwiley:322</identifier>
 <identifier type="spc">record_spc_4832</identifier>
 <titleInfo><title>Charcoal figure drawing of woman reclining</title></titleInfo>
@@ -1032,7 +1075,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010645</identifier>
+<identifier type="local">0012_000458_000044</identifier>
+<identifier type="cw">cw010645</identifier>
 <identifier type="pid">acwiley:323</identifier>
 <identifier type="spc">record_spc_4833</identifier>
 <titleInfo><title>Pencil drawn figure drawing of woman reclining</title></titleInfo>
@@ -1056,7 +1100,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010646</identifier>
+<identifier type="local">0012_000458_000045</identifier>
+<identifier type="cw">cw010646</identifier>
 <identifier type="pid">acwiley:324</identifier>
 <identifier type="spc">record_spc_4834</identifier>
 <titleInfo><title>Pencil drawn figure drawing of woman reclining</title></titleInfo>
@@ -1080,7 +1125,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010647</identifier>
+<identifier type="local">0012_000458_000046</identifier>
+<identifier type="cw">cw010647</identifier>
 <identifier type="pid">acwiley:325</identifier>
 <identifier type="spc">record_spc_4835</identifier>
 <titleInfo><title>Pencil drawn figure drawing of woman</title></titleInfo>
@@ -1104,7 +1150,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010648</identifier>
+<identifier type="local">0012_000458_000047</identifier>
+<identifier type="cw">cw010648</identifier>
 <identifier type="pid">acwiley:326</identifier>
 <identifier type="spc">record_spc_4836</identifier>
 <titleInfo><title>Pencil drawn figure drawing of woman reclining</title></titleInfo>
@@ -1128,7 +1175,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010749</identifier>
+<identifier type="local">0012_000458_000048</identifier>
+<identifier type="cw">cw010749</identifier>
 <identifier type="pid">acwiley:327</identifier>
 <identifier type="spc">record_spc_4837</identifier>
 <titleInfo><title>Pencil drawn figure drawing of woman and spinning wheel</title></titleInfo>
@@ -1152,7 +1200,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010750</identifier>
+<identifier type="local">0012_000458_000049</identifier>
+<identifier type="cw">cw010750</identifier>
 <identifier type="pid">acwiley:328</identifier>
 <identifier type="spc">record_spc_4838</identifier>
 <titleInfo><title>Pencil drawn figure drawing of woman</title></titleInfo>
@@ -1176,7 +1225,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010751</identifier>
+<identifier type="local">0012_000458_000050</identifier>
+<identifier type="cw">cw010751</identifier>
 <identifier type="pid">acwiley:329</identifier>
 <identifier type="spc">record_spc_4839</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -1200,7 +1250,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010752</identifier>
+<identifier type="local">0012_000458_000051</identifier>
+<identifier type="cw">cw010752</identifier>
 <identifier type="pid">acwiley:330</identifier>
 <identifier type="spc">record_spc_4840</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -1224,7 +1275,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010753</identifier>
+<identifier type="local">0012_000458_000052</identifier>
+<identifier type="cw">cw010753</identifier>
 <identifier type="pid">acwiley:331</identifier>
 <identifier type="spc">record_spc_4841</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -1248,7 +1300,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010754</identifier>
+<identifier type="local">0012_000458_000053</identifier>
+<identifier type="cw">cw010754</identifier>
 <identifier type="pid">acwiley:332</identifier>
 <identifier type="spc">record_spc_4842</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -1272,7 +1325,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010755</identifier>
+<identifier type="local">0012_000458_000054</identifier>
+<identifier type="cw">cw010755</identifier>
 <identifier type="pid">acwiley:333</identifier>
 <identifier type="spc">record_spc_4843</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -1296,7 +1350,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010756</identifier>
+<identifier type="local">0012_000458_000055</identifier>
+<identifier type="cw">cw010756</identifier>
 <identifier type="pid">acwiley:334</identifier>
 <identifier type="spc">record_spc_4844</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -1320,7 +1375,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010857</identifier>
+<identifier type="local">0012_000458_000056</identifier>
+<identifier type="cw">cw010857</identifier>
 <identifier type="pid">acwiley:335</identifier>
 <identifier type="spc">record_spc_4845</identifier>
 <titleInfo><title>Charcoal figure drawing of a woman</title></titleInfo>
@@ -1344,7 +1400,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010858</identifier>
+<identifier type="local">0012_000458_000057</identifier>
+<identifier type="cw">cw010858</identifier>
 <identifier type="pid">acwiley:336</identifier>
 <identifier type="spc">record_spc_4846</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -1368,7 +1425,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010859</identifier>
+<identifier type="local">0012_000458_000058</identifier>
+<identifier type="cw">cw010859</identifier>
 <identifier type="pid">acwiley:337</identifier>
 <identifier type="spc">record_spc_4847</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -1392,7 +1450,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010860</identifier>
+<identifier type="local">0012_000458_000059</identifier>
+<identifier type="cw">cw010860</identifier>
 <identifier type="pid">acwiley:338</identifier>
 <identifier type="spc">record_spc_4848</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -1416,7 +1475,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010961</identifier>
+<identifier type="local">0012_000458_000060</identifier>
+<identifier type="cw">cw010961</identifier>
 <identifier type="pid">acwiley:339</identifier>
 <identifier type="spc">record_spc_4849</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -1440,7 +1500,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010962</identifier>
+<identifier type="local">0012_000458_000061</identifier>
+<identifier type="cw">cw010962</identifier>
 <identifier type="pid">acwiley:340</identifier>
 <identifier type="spc">record_spc_4850</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -1464,7 +1525,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010963</identifier>
+<identifier type="local">0012_000458_000062</identifier>
+<identifier type="cw">cw010963</identifier>
 <identifier type="pid">acwiley:341</identifier>
 <identifier type="spc">record_spc_4851</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -1488,7 +1550,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010964</identifier>
+<identifier type="local">0012_000458_000063</identifier>
+<identifier type="cw">cw010964</identifier>
 <identifier type="pid">acwiley:342</identifier>
 <identifier type="spc">record_spc_4852</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -1512,7 +1575,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010965</identifier>
+<identifier type="local">0012_000458_000064</identifier>
+<identifier type="cw">cw010965</identifier>
 <identifier type="pid">acwiley:343</identifier>
 <identifier type="spc">record_spc_4853</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -1536,7 +1600,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010966</identifier>
+<identifier type="local">0012_000458_000065</identifier>
+<identifier type="cw">cw010966</identifier>
 <identifier type="pid">acwiley:344</identifier>
 <identifier type="spc">record_spc_4854</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -1560,7 +1625,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010967</identifier>
+<identifier type="local">0012_000458_000066</identifier>
+<identifier type="cw">cw010967</identifier>
 <identifier type="pid">acwiley:345</identifier>
 <identifier type="spc">record_spc_4855</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -1584,7 +1650,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010968</identifier>
+<identifier type="local">0012_000458_000067</identifier>
+<identifier type="cw">cw010968</identifier>
 <identifier type="pid">acwiley:346</identifier>
 <identifier type="spc">record_spc_4856</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -1608,7 +1675,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw010969</identifier>
+<identifier type="local">0012_000458_000068</identifier>
+<identifier type="cw">cw010969</identifier>
 <identifier type="pid">acwiley:347</identifier>
 <identifier type="spc">record_spc_4857</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -1632,7 +1700,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011070</identifier>
+<identifier type="local">0012_000458_000069</identifier>
+<identifier type="cw">cw011070</identifier>
 <identifier type="pid">acwiley:348</identifier>
 <identifier type="spc">record_spc_4858</identifier>
 <titleInfo><title>Pencil figure drawing of a man</title></titleInfo>
@@ -1656,7 +1725,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011071</identifier>
+<identifier type="local">0012_000458_000070</identifier>
+<identifier type="cw">cw011071</identifier>
 <identifier type="pid">acwiley:349</identifier>
 <identifier type="spc">record_spc_4859</identifier>
 <titleInfo><title>Pencil figure drawing of a man</title></titleInfo>
@@ -1680,7 +1750,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011072</identifier>
+<identifier type="local">0012_000458_000071</identifier>
+<identifier type="cw">cw011072</identifier>
 <identifier type="pid">acwiley:350</identifier>
 <identifier type="spc">record_spc_4860</identifier>
 <titleInfo><title>Pencil figure drawing of three men</title></titleInfo>
@@ -1704,7 +1775,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011073</identifier>
+<identifier type="local">0012_000458_000072</identifier>
+<identifier type="cw">cw011073</identifier>
 <identifier type="pid">acwiley:351</identifier>
 <identifier type="spc">record_spc_4861</identifier>
 <titleInfo><title>Pencil figure drawing of a man</title></titleInfo>
@@ -1728,7 +1800,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011074</identifier>
+<identifier type="local">0012_000458_000073</identifier>
+<identifier type="cw">cw011074</identifier>
 <identifier type="pid">acwiley:352</identifier>
 <identifier type="spc">record_spc_4862</identifier>
 <titleInfo><title>Pencil figure drawing of a man</title></titleInfo>
@@ -1752,7 +1825,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011075</identifier>
+<identifier type="local">0012_000458_000074</identifier>
+<identifier type="cw">cw011075</identifier>
 <identifier type="pid">acwiley:353</identifier>
 <identifier type="spc">record_spc_4863</identifier>
 <titleInfo><title>Pencil figure drawing of a man</title></titleInfo>
@@ -1776,7 +1850,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011076</identifier>
+<identifier type="local">0012_000458_000075</identifier>
+<identifier type="cw">cw011076</identifier>
 <identifier type="pid">acwiley:354</identifier>
 <identifier type="spc">record_spc_4864</identifier>
 <titleInfo><title>Pencil figure drawing of a man</title></titleInfo>
@@ -1800,7 +1875,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011077</identifier>
+<identifier type="local">0012_000458_000076</identifier>
+<identifier type="cw">cw011077</identifier>
 <identifier type="pid">acwiley:355</identifier>
 <identifier type="spc">record_spc_4865</identifier>
 <titleInfo><title>Pencil figure drawing of a man</title></titleInfo>
@@ -1824,7 +1900,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011078</identifier>
+<identifier type="local">0012_000458_000077</identifier>
+<identifier type="cw">cw011078</identifier>
 <identifier type="pid">acwiley:356</identifier>
 <identifier type="spc">record_spc_4866</identifier>
 <titleInfo><title>Pencil figure drawing of a man</title></titleInfo>
@@ -1848,7 +1925,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011079</identifier>
+<identifier type="local">0012_000458_000078</identifier>
+<identifier type="cw">cw011079</identifier>
 <identifier type="pid">acwiley:357</identifier>
 <identifier type="spc">record_spc_4867</identifier>
 <titleInfo><title>Pencil figure drawing of a man</title></titleInfo>
@@ -1872,7 +1950,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011080</identifier>
+<identifier type="local">0012_000458_000079</identifier>
+<identifier type="cw">cw011080</identifier>
 <identifier type="pid">acwiley:358</identifier>
 <identifier type="spc">record_spc_4898</identifier>
 <titleInfo><title>Drawing of a map of South America</title></titleInfo>
@@ -1880,7 +1959,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <originInfo><dateCreated qualifier="approximate">1895-1897</dateCreated><dateCreated encoding="edtf" keyDate="yes" point="start">1895</dateCreated><dateCreated encoding="edtf" keyDate="yes" point="end">1897</dateCreated></originInfo>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
-<subject authority="lcsh" valueURI=""><topic>manuscript maps</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85080865"><topic>Manuscript maps</topic></subject>
 
 
 
@@ -1896,7 +1975,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011181</identifier>
+<identifier type="local">0012_000458_000080</identifier>
+<identifier type="cw">cw011181</identifier>
 <identifier type="pid">acwiley:359</identifier>
 <identifier type="spc">record_spc_4868</identifier>
 <titleInfo><title>Pencil figure drawing of a child</title></titleInfo>
@@ -1920,7 +2000,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011182</identifier>
+<identifier type="local">0012_000458_000081</identifier>
+<identifier type="cw">cw011182</identifier>
 <identifier type="pid">acwiley:360</identifier>
 <identifier type="spc">record_spc_4869</identifier>
 <titleInfo><title>Pencil figure drawing of a child</title></titleInfo>
@@ -1944,7 +2025,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011183</identifier>
+<identifier type="local">0012_000458_000082</identifier>
+<identifier type="cw">cw011183</identifier>
 <identifier type="pid">acwiley:361</identifier>
 <identifier type="spc">record_spc_4870</identifier>
 <titleInfo><title>Pencil figure drawing of a child</title></titleInfo>
@@ -1968,7 +2050,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011184</identifier>
+<identifier type="local">0012_000458_000083</identifier>
+<identifier type="cw">cw011184</identifier>
 <identifier type="pid">acwiley:362</identifier>
 <identifier type="spc">record_spc_4871</identifier>
 <titleInfo><title>Pencil figure drawing of a child</title></titleInfo>
@@ -1992,7 +2075,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011185</identifier>
+<identifier type="local">0012_000458_000084</identifier>
+<identifier type="cw">cw011185</identifier>
 <identifier type="pid">acwiley:363</identifier>
 <identifier type="spc">record_spc_4872</identifier>
 <titleInfo><title>Pencil figure drawing of a child</title></titleInfo>
@@ -2016,7 +2100,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011186</identifier>
+<identifier type="local">0012_000458_000085</identifier>
+<identifier type="cw">cw011186</identifier>
 <identifier type="pid">acwiley:364</identifier>
 <identifier type="spc">record_spc_4873</identifier>
 <titleInfo><title>Pencil figure drawing of a man</title></titleInfo>
@@ -2040,7 +2125,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011187</identifier>
+<identifier type="local">0012_000458_000086</identifier>
+<identifier type="cw">cw011187</identifier>
 <identifier type="pid">acwiley:365</identifier>
 <identifier type="spc">record_spc_4874</identifier>
 <titleInfo><title>Pencil figure drawing of a child</title></titleInfo>
@@ -2064,7 +2150,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011188</identifier>
+<identifier type="local">0012_000458_000087</identifier>
+<identifier type="cw">cw011188</identifier>
 <identifier type="pid">acwiley:366</identifier>
 <identifier type="spc">record_spc_4875</identifier>
 <titleInfo><title>Pencil figure drawing of a man</title></titleInfo>
@@ -2088,7 +2175,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011189</identifier>
+<identifier type="local">0012_000458_000088</identifier>
+<identifier type="cw">cw011189</identifier>
 <identifier type="pid">acwiley:367</identifier>
 <identifier type="spc">record_spc_4876</identifier>
 <titleInfo><title>Pencil figure drawing of a child</title></titleInfo>
@@ -2112,7 +2200,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011190</identifier>
+<identifier type="local">0012_000458_000089</identifier>
+<identifier type="cw">cw011190</identifier>
 <identifier type="pid">acwiley:368</identifier>
 <identifier type="spc">record_spc_4877</identifier>
 <titleInfo><title>Pencil figure drawing of a woman</title></titleInfo>
@@ -2136,7 +2225,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011291</identifier>
+<identifier type="local">0012_000458_000090</identifier>
+<identifier type="cw">cw011291</identifier>
 <identifier type="pid">acwiley:369</identifier>
 <identifier type="spc">record_spc_4878</identifier>
 <titleInfo><title>Pencil figure drawing of two or more individuals</title></titleInfo>
@@ -2160,7 +2250,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011292</identifier>
+<identifier type="local">0012_000458_000091</identifier>
+<identifier type="cw">cw011292</identifier>
 <identifier type="pid">acwiley:370</identifier>
 <identifier type="spc">record_spc_4879</identifier>
 <titleInfo><title>Pencil figure drawing of two or more individuals</title></titleInfo>
@@ -2184,7 +2275,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011293</identifier>
+<identifier type="local">0012_000458_000092</identifier>
+<identifier type="cw">cw011293</identifier>
 <identifier type="pid">acwiley:371</identifier>
 <identifier type="spc">record_spc_4880</identifier>
 <titleInfo><title>Pencil figure drawing of two or more individuals</title></titleInfo>
@@ -2208,7 +2300,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011294</identifier>
+<identifier type="local">0012_000458_000093</identifier>
+<identifier type="cw">cw011294</identifier>
 <identifier type="pid">acwiley:372</identifier>
 <identifier type="spc">record_spc_4881</identifier>
 <titleInfo><title>Pencil figure drawing of two or more individuals</title></titleInfo>
@@ -2232,7 +2325,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011295</identifier>
+<identifier type="local">0012_000458_000094</identifier>
+<identifier type="cw">cw011295</identifier>
 <identifier type="pid">acwiley:373</identifier>
 <identifier type="spc">record_spc_4882</identifier>
 <titleInfo><title>Pencil figure drawing of a man</title></titleInfo>
@@ -2256,7 +2350,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011296</identifier>
+<identifier type="local">0012_000458_000095</identifier>
+<identifier type="cw">cw011296</identifier>
 <identifier type="pid">acwiley:374</identifier>
 <identifier type="spc">record_spc_4883</identifier>
 <titleInfo><title>Pencil figure drawing of two or more individuals</title></titleInfo>
@@ -2280,7 +2375,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011298</identifier>
+<identifier type="local">0012_000458_000096</identifier>
+<identifier type="cw">cw011298</identifier>
 <identifier type="pid">acwiley:375</identifier>
 <identifier type="spc">record_spc_4884</identifier>
 <titleInfo><title>Pencil figure drawing of two or more individuals</title></titleInfo>
@@ -2304,7 +2400,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw011299</identifier>
+<identifier type="local">0012_000458_000097</identifier>
+<identifier type="cw">cw011299</identifier>
 <identifier type="pid">acwiley:376</identifier>
 <identifier type="spc">record_spc_4885</identifier>
 <titleInfo><title>Pencil figure drawing of two or more individuals</title></titleInfo>
@@ -2328,7 +2425,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0113100</identifier>
+<identifier type="local">0012_000458_000098</identifier>
+<identifier type="cw">cw0113100</identifier>
 <identifier type="pid">acwiley:377</identifier>
 <identifier type="spc">record_spc_4899</identifier>
 <titleInfo><title>Pencil drawn nature study of dog</title></titleInfo>
@@ -2352,7 +2450,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0113101</identifier>
+<identifier type="local">0012_000458_000099</identifier>
+<identifier type="cw">cw0113101</identifier>
 <identifier type="pid">acwiley:378</identifier>
 <identifier type="spc">record_spc_4900</identifier>
 <titleInfo><title>Pencil drawn nature study of dog</title></titleInfo>
@@ -2376,7 +2475,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0113102</identifier>
+<identifier type="local">0012_000458_000100</identifier>
+<identifier type="cw">cw0113102</identifier>
 <identifier type="pid">acwiley:379</identifier>
 <identifier type="spc">record_spc_4901</identifier>
 <titleInfo><title>Pencil drawn nature study of dog</title></titleInfo>
@@ -2400,7 +2500,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0113103</identifier>
+<identifier type="local">0012_000458_000101</identifier>
+<identifier type="cw">cw0113103</identifier>
 <identifier type="pid">acwiley:380</identifier>
 <identifier type="spc">record_spc_4902</identifier>
 <titleInfo><title>Pencil drawn nature study of dog</title></titleInfo>
@@ -2424,7 +2525,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0113104</identifier>
+<identifier type="local">0012_000458_000102</identifier>
+<identifier type="cw">cw0113104</identifier>
 <identifier type="pid">acwiley:381</identifier>
 <identifier type="spc">record_spc_4903</identifier>
 <titleInfo><title>Pencil drawn nature study of dog</title></titleInfo>
@@ -2448,7 +2550,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0113105</identifier>
+<identifier type="local">0012_000458_000103</identifier>
+<identifier type="cw">cw0113105</identifier>
 <identifier type="pid">acwiley:382</identifier>
 <identifier type="spc">record_spc_4904</identifier>
 <titleInfo><title>Pencil drawn nature study of lion</title></titleInfo>
@@ -2472,7 +2575,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0113106</identifier>
+<identifier type="local">0012_000458_000104</identifier>
+<identifier type="cw">cw0113106</identifier>
 <identifier type="pid">acwiley:383</identifier>
 <identifier type="spc">record_spc_4905</identifier>
 <titleInfo><title>Pencil drawn nature studies of lioness</title></titleInfo>
@@ -2496,7 +2600,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0114107</identifier>
+<identifier type="local">0012_000458_000105</identifier>
+<identifier type="cw">cw0114107</identifier>
 <identifier type="pid">acwiley:384</identifier>
 <identifier type="spc">record_spc_4906</identifier>
 <titleInfo><title>Pencil drawn nature study of trees</title></titleInfo>
@@ -2520,7 +2625,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0114108</identifier>
+<identifier type="local">0012_000458_000106</identifier>
+<identifier type="cw">cw0114108</identifier>
 <identifier type="pid">acwiley:385</identifier>
 <identifier type="spc">record_spc_4907</identifier>
 <titleInfo><title>Pencil drawn nature study of trees and plants</title></titleInfo>
@@ -2544,7 +2650,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0114109</identifier>
+<identifier type="local">0012_000458_000107</identifier>
+<identifier type="cw">cw0114109</identifier>
 <identifier type="pid">acwiley:386</identifier>
 <identifier type="spc">record_spc_4908</identifier>
 <titleInfo><title>Pencil drawn nature study of trees and plants</title></titleInfo>
@@ -2568,7 +2675,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0114112</identifier>
+<identifier type="local">0012_000458_000108</identifier>
+<identifier type="cw">cw0114112</identifier>
 <identifier type="pid">acwiley:387</identifier>
 <identifier type="spc">record_spc_4909</identifier>
 <titleInfo><title>Pencil drawn nature study of trees and plants</title></titleInfo>
@@ -2592,7 +2700,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0114113</identifier>
+<identifier type="local">0012_000458_000109</identifier>
+<identifier type="cw">cw0114113</identifier>
 <identifier type="pid">acwiley:388</identifier>
 <identifier type="spc">record_spc_4910</identifier>
 <titleInfo><title>Charcoal drawn nature study of tree</title></titleInfo>
@@ -2616,7 +2725,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0115114</identifier>
+<identifier type="local">0012_000458_000110</identifier>
+<identifier type="cw">cw0115114</identifier>
 <identifier type="pid">acwiley:389</identifier>
 <identifier type="spc">record_spc_4911</identifier>
 <titleInfo><title>Pencil drawn pastoral landscape</title></titleInfo>
@@ -2640,7 +2750,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0115115</identifier>
+<identifier type="local">0012_000458_000111</identifier>
+<identifier type="cw">cw0115115</identifier>
 <identifier type="pid">acwiley:390</identifier>
 <identifier type="spc">record_spc_4912</identifier>
 <titleInfo><title>Pencil drawn pastoral landscape</title></titleInfo>
@@ -2664,7 +2775,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0115116</identifier>
+<identifier type="local">0012_000458_000112</identifier>
+<identifier type="cw">cw0115116</identifier>
 <identifier type="pid">acwiley:391</identifier>
 <identifier type="spc">record_spc_4913</identifier>
 <titleInfo><title>Pencil drawn pastoral landscape</title></titleInfo>
@@ -2688,7 +2800,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0116119</identifier>
+<identifier type="local">0012_000458_000113</identifier>
+<identifier type="cw">cw0116119</identifier>
 <identifier type="pid">acwiley:392</identifier>
 <identifier type="spc">record_spc_4914</identifier>
 <titleInfo><title>Pencil drawn architectural sketch</title></titleInfo>
@@ -2712,7 +2825,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0116120</identifier>
+<identifier type="local">0012_000458_000114</identifier>
+<identifier type="cw">cw0116120</identifier>
 <identifier type="pid">acwiley:393</identifier>
 <identifier type="spc">record_spc_4915</identifier>
 <titleInfo><title>Color ink architectural sketch of stadium</title></titleInfo>
@@ -2736,7 +2850,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0116121</identifier>
+<identifier type="local">0012_000458_000115</identifier>
+<identifier type="cw">cw0116121</identifier>
 <identifier type="pid">acwiley:394</identifier>
 <identifier type="spc">record_spc_4916</identifier>
 <titleInfo><title>Black and white ink sketch of stadium</title></titleInfo>
@@ -2760,7 +2875,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0116122</identifier>
+<identifier type="local">0012_000458_000116</identifier>
+<identifier type="cw">cw0116122</identifier>
 <identifier type="pid">acwiley:395</identifier>
 <identifier type="spc">record_spc_4917</identifier>
 <titleInfo><title>Black and white ink architectural sketch</title></titleInfo>
@@ -2784,7 +2900,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0116123</identifier>
+<identifier type="local">0012_000458_000117</identifier>
+<identifier type="cw">cw0116123</identifier>
 <identifier type="pid">acwiley:396</identifier>
 <identifier type="spc">record_spc_4918</identifier>
 <titleInfo><title>Pencil drawn architectural sketch</title></titleInfo>
@@ -2808,7 +2925,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0117124</identifier>
+<identifier type="local">0012_000458_000118</identifier>
+<identifier type="cw">cw0117124</identifier>
 <identifier type="pid">acwiley:397</identifier>
 <identifier type="spc">record_spc_4919</identifier>
 <titleInfo><title>Black and white ink drawing of bookplate design</title></titleInfo>
@@ -2832,7 +2950,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0117125</identifier>
+<identifier type="local">0012_000458_000119</identifier>
+<identifier type="cw">cw0117125</identifier>
 <identifier type="pid">acwiley:398</identifier>
 <identifier type="spc">record_spc_4920</identifier>
 <titleInfo><title>Pencil drawn bookplate design</title></titleInfo>
@@ -2856,7 +2975,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0117126</identifier>
+<identifier type="local">0012_000458_000120</identifier>
+<identifier type="cw">cw0117126</identifier>
 <identifier type="pid">acwiley:399</identifier>
 <identifier type="spc">record_spc_4921</identifier>
 <titleInfo><title>Black and white ink drawn bookplate design</title></titleInfo>
@@ -2880,7 +3000,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0117127</identifier>
+<identifier type="local">0012_000458_000121</identifier>
+<identifier type="cw">cw0117127</identifier>
 <identifier type="pid">acwiley:400</identifier>
 <identifier type="spc">record_spc_4922</identifier>
 <titleInfo><title>Black and white ink drawing of bookplate design</title></titleInfo>
@@ -2904,7 +3025,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0117128</identifier>
+<identifier type="local">0012_000458_000122</identifier>
+<identifier type="cw">cw0117128</identifier>
 <identifier type="pid">acwiley:401</identifier>
 <identifier type="spc">record_spc_4923</identifier>
 <titleInfo><title>Pencil drawn bookplate design</title></titleInfo>
@@ -2928,7 +3050,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0117129</identifier>
+<identifier type="local">0012_000458_000123</identifier>
+<identifier type="cw">cw0117129</identifier>
 <identifier type="pid">acwiley:402</identifier>
 <identifier type="spc">record_spc_4924</identifier>
 <titleInfo><title>Pencil drawn bookplate design</title></titleInfo>
@@ -2952,7 +3075,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0118130</identifier>
+<identifier type="local">0012_000458_000124</identifier>
+<identifier type="cw">cw0118130</identifier>
 <identifier type="pid">acwiley:403</identifier>
 <identifier type="spc">record_spc_4925</identifier>
 <titleInfo><title>Color ink drawing of still life</title></titleInfo>
@@ -2976,7 +3100,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0118131</identifier>
+<identifier type="local">0012_000458_000125</identifier>
+<identifier type="cw">cw0118131</identifier>
 <identifier type="pid">acwiley:404</identifier>
 <identifier type="spc">record_spc_4926</identifier>
 <titleInfo><title>Color ink drawing of woman</title></titleInfo>
@@ -3000,7 +3125,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0118132</identifier>
+<identifier type="local">0012_000458_000126</identifier>
+<identifier type="cw">cw0118132</identifier>
 <identifier type="pid">acwiley:405</identifier>
 <identifier type="spc">record_spc_4927</identifier>
 <titleInfo><title>Black and white ink drawing of tree</title></titleInfo>
@@ -3024,7 +3150,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0118133</identifier>
+<identifier type="local">0012_000458_000127</identifier>
+<identifier type="cw">cw0118133</identifier>
 <identifier type="pid">acwiley:406</identifier>
 <identifier type="spc">record_spc_4928</identifier>
 <titleInfo><title>Black and white ink drawing of interior still life</title></titleInfo>
@@ -3048,7 +3175,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0118134</identifier>
+<identifier type="local">0012_000458_000128</identifier>
+<identifier type="cw">cw0118134</identifier>
 <identifier type="pid">acwiley:407</identifier>
 <identifier type="spc">record_spc_4929</identifier>
 <titleInfo><title>Charcoal drawn still life</title></titleInfo>
@@ -3072,7 +3200,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0118135</identifier>
+<identifier type="local">0012_000458_000129</identifier>
+<identifier type="cw">cw0118135</identifier>
 <identifier type="pid">acwiley:408</identifier>
 <identifier type="spc">record_spc_4930</identifier>
 <titleInfo><title>Pencil drawn cityscape</title></titleInfo>
@@ -3096,7 +3225,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0118136</identifier>
+<identifier type="local">0012_000458_000130</identifier>
+<identifier type="cw">cw0118136</identifier>
 <identifier type="pid">acwiley:409</identifier>
 <identifier type="spc">record_spc_4931</identifier>
 <titleInfo><title>Font design study</title></titleInfo>
@@ -3120,7 +3250,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0118137</identifier>
+<identifier type="local">0012_000458_000131</identifier>
+<identifier type="cw">cw0118137</identifier>
 <identifier type="pid">acwiley:410</identifier>
 <identifier type="spc">record_spc_4932</identifier>
 <titleInfo><title>Pencil drawn boat</title></titleInfo>
@@ -3144,7 +3275,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0118138</identifier>
+<identifier type="local">0012_000458_000132</identifier>
+<identifier type="cw">cw0118138</identifier>
 <identifier type="pid">acwiley:411</identifier>
 <identifier type="spc">record_spc_4933</identifier>
 <titleInfo><title>Pencil drawn boat and horses</title></titleInfo>
@@ -3168,7 +3300,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0118139</identifier>
+<identifier type="local">0012_000458_000133</identifier>
+<identifier type="cw">cw0118139</identifier>
 <identifier type="pid">acwiley:412</identifier>
 <identifier type="spc">record_spc_4934</identifier>
 <titleInfo><title>Pencil drawn town scene</title></titleInfo>
@@ -3192,7 +3325,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0118140</identifier>
+<identifier type="local">0012_000458_000134</identifier>
+<identifier type="cw">cw0118140</identifier>
 <identifier type="pid">acwiley:413</identifier>
 <identifier type="spc">record_spc_4935</identifier>
 <titleInfo><title>Pencil drawn town scene</title></titleInfo>
@@ -3216,7 +3350,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0118141</identifier>
+<identifier type="local">0012_000458_000135</identifier>
+<identifier type="cw">cw0118141</identifier>
 <identifier type="pid">acwiley:414</identifier>
 <identifier type="spc">record_spc_4936</identifier>
 <titleInfo><title>Pencil drawn people walking</title></titleInfo>
@@ -3240,7 +3375,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0118142</identifier>
+<identifier type="local">0012_000458_000136</identifier>
+<identifier type="cw">cw0118142</identifier>
 <identifier type="pid">acwiley:415</identifier>
 <identifier type="spc">record_spc_4937</identifier>
 <titleInfo><title>Pencil drawn town sketches</title></titleInfo>
@@ -3264,7 +3400,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0118144</identifier>
+<identifier type="local">0012_000458_000137</identifier>
+<identifier type="cw">cw0118144</identifier>
 <identifier type="pid">acwiley:416</identifier>
 <identifier type="spc">record_spc_4938</identifier>
 <titleInfo><title>Pencil drawn town sketches</title></titleInfo>
@@ -3288,7 +3425,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0118145</identifier>
+<identifier type="local">0012_000458_000138</identifier>
+<identifier type="cw">cw0118145</identifier>
 <identifier type="pid">acwiley:417</identifier>
 <identifier type="spc">record_spc_4939</identifier>
 <titleInfo><title>Pencil drawn buggy</title></titleInfo>
@@ -3312,7 +3450,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0118146</identifier>
+<identifier type="local">0012_000458_000139</identifier>
+<identifier type="cw">cw0118146</identifier>
 <identifier type="pid">acwiley:418</identifier>
 <identifier type="spc">record_spc_4940</identifier>
 <titleInfo><title>Pencil drawn miscellaneous sketches</title></titleInfo>
@@ -3336,7 +3475,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0118147</identifier>
+<identifier type="local">0012_000458_000140</identifier>
+<identifier type="cw">cw0118147</identifier>
 <identifier type="pid">acwiley:419</identifier>
 <identifier type="spc">record_spc_4941</identifier>
 <titleInfo><title>Pencil drawn face of woman</title></titleInfo>
@@ -3360,7 +3500,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0118148</identifier>
+<identifier type="local">0012_000458_000141</identifier>
+<identifier type="cw">cw0118148</identifier>
 <identifier type="pid">acwiley:420</identifier>
 <identifier type="spc">record_spc_4942</identifier>
 <titleInfo><title>Black and white ink drawn pastoral landscapes</title></titleInfo>
@@ -3384,7 +3525,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0118149</identifier>
+<identifier type="local">0012_000458_000142</identifier>
+<identifier type="cw">cw0118149</identifier>
 <identifier type="pid">acwiley:421</identifier>
 <identifier type="spc">record_spc_4943</identifier>
 <titleInfo><title>Pencil drawn tents</title></titleInfo>
@@ -3408,7 +3550,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0118150</identifier>
+<identifier type="local">0012_000458_000143</identifier>
+<identifier type="cw">cw0118150</identifier>
 <identifier type="pid">acwiley:422</identifier>
 <identifier type="spc">record_spc_4944</identifier>
 <titleInfo><title>Pencil drawn woman sitting</title></titleInfo>
@@ -3432,7 +3575,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0118151</identifier>
+<identifier type="local">0012_000458_000144</identifier>
+<identifier type="cw">cw0118151</identifier>
 <identifier type="pid">acwiley:423</identifier>
 <identifier type="spc">record_spc_4945</identifier>
 <titleInfo><title>Pencil drawn bookplate design</title></titleInfo>
@@ -3456,7 +3600,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0201158</identifier>
+<identifier type="local">0012_000458_000145</identifier>
+<identifier type="cw">cw0201158</identifier>
 <identifier type="pid">acwiley:424</identifier>
 <identifier type="spc">record_spc_4966</identifier>
 <titleInfo><title>Yearbook illustrations in ink: academic</title></titleInfo>
@@ -3480,7 +3625,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0201159</identifier>
+<identifier type="local">0012_000458_000146</identifier>
+<identifier type="cw">cw0201159</identifier>
 <identifier type="pid">acwiley:425</identifier>
 <identifier type="spc">record_spc_4967</identifier>
 <titleInfo><title>Yearbook illustrations in ink: academic</title></titleInfo>
@@ -3504,7 +3650,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0201160</identifier>
+<identifier type="local">0012_000458_000147</identifier>
+<identifier type="cw">cw0201160</identifier>
 <identifier type="pid">acwiley:426</identifier>
 <identifier type="spc">record_spc_4968</identifier>
 <titleInfo><title>Yearbook illustrations in ink: academic</title></titleInfo>
@@ -3528,7 +3675,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0201161</identifier>
+<identifier type="local">0012_000458_000148</identifier>
+<identifier type="cw">cw0201161</identifier>
 <identifier type="pid">acwiley:427</identifier>
 <identifier type="spc">record_spc_4969</identifier>
 <titleInfo><title>Yearbook illustrations in ink: academic</title></titleInfo>
@@ -3552,7 +3700,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0201162</identifier>
+<identifier type="local">0012_000458_000149</identifier>
+<identifier type="cw">cw0201162</identifier>
 <identifier type="pid">acwiley:428</identifier>
 <identifier type="spc">record_spc_4970</identifier>
 <titleInfo><title>Yearbook illustrations in ink: academic</title></titleInfo>
@@ -3576,7 +3725,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0201163</identifier>
+<identifier type="local">0012_000458_000150</identifier>
+<identifier type="cw">cw0201163</identifier>
 <identifier type="pid">acwiley:429</identifier>
 <identifier type="spc">record_spc_4971</identifier>
 <titleInfo><title>Yearbook illustrations in ink: academic</title></titleInfo>
@@ -3600,7 +3750,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0201164</identifier>
+<identifier type="local">0012_000458_000151</identifier>
+<identifier type="cw">cw0201164</identifier>
 <identifier type="pid">acwiley:430</identifier>
 <identifier type="spc">record_spc_4972</identifier>
 <titleInfo><title>Yearbook illustrations in ink: academic</title></titleInfo>
@@ -3624,7 +3775,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0201165</identifier>
+<identifier type="local">0012_000458_000152</identifier>
+<identifier type="cw">cw0201165</identifier>
 <identifier type="pid">acwiley:431</identifier>
 <identifier type="spc">record_spc_4973</identifier>
 <titleInfo><title>Yearbook illustrations in ink: academic</title></titleInfo>
@@ -3648,7 +3800,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0202166</identifier>
+<identifier type="local">0012_000458_000153</identifier>
+<identifier type="cw">cw0202166</identifier>
 <identifier type="pid">acwiley:432</identifier>
 <identifier type="spc">record_spc_4974</identifier>
 <titleInfo><title>Yearbook illustrations in ink: class and year drawings</title></titleInfo>
@@ -3672,7 +3825,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0202167</identifier>
+<identifier type="local">0012_000458_000154</identifier>
+<identifier type="cw">cw0202167</identifier>
 <identifier type="pid">acwiley:433</identifier>
 <identifier type="spc">record_spc_4975</identifier>
 <titleInfo><title>Yearbook illustrations in ink: class and year drawings</title></titleInfo>
@@ -3696,7 +3850,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0202168</identifier>
+<identifier type="local">0012_000458_000155</identifier>
+<identifier type="cw">cw0202168</identifier>
 <identifier type="pid">acwiley:434</identifier>
 <identifier type="spc">record_spc_4976</identifier>
 <titleInfo><title>Yearbook illustrations in ink: class and year drawings</title></titleInfo>
@@ -3720,7 +3875,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0202169</identifier>
+<identifier type="local">0012_000458_000156</identifier>
+<identifier type="cw">cw0202169</identifier>
 <identifier type="pid">acwiley:435</identifier>
 <identifier type="spc">record_spc_4977</identifier>
 <titleInfo><title>Yearbook illustrations in ink: class and year drawings</title></titleInfo>
@@ -3744,7 +3900,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0202170</identifier>
+<identifier type="local">0012_000458_000157</identifier>
+<identifier type="cw">cw0202170</identifier>
 <identifier type="pid">acwiley:436</identifier>
 <identifier type="spc">record_spc_4978</identifier>
 <titleInfo><title>Yearbook illustrations ink: class and year drawings</title></titleInfo>
@@ -3768,7 +3925,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0202171</identifier>
+<identifier type="local">0012_000458_000158</identifier>
+<identifier type="cw">cw0202171</identifier>
 <identifier type="pid">acwiley:437</identifier>
 <identifier type="spc">record_spc_4979</identifier>
 <titleInfo><title>Yearbook illustrations in ink: class and year drawings</title></titleInfo>
@@ -3792,7 +3950,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0202172</identifier>
+<identifier type="local">0012_000458_000159</identifier>
+<identifier type="cw">cw0202172</identifier>
 <identifier type="pid">acwiley:438</identifier>
 <identifier type="spc">record_spc_4980</identifier>
 <titleInfo><title>Yearbook illustrations in ink: class and year drawings</title></titleInfo>
@@ -3816,7 +3975,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0202173</identifier>
+<identifier type="local">0012_000458_000160</identifier>
+<identifier type="cw">cw0202173</identifier>
 <identifier type="pid">acwiley:439</identifier>
 <identifier type="spc">record_spc_4981</identifier>
 <titleInfo><title>Yearbook illustrations in ink: class and year drawings</title></titleInfo>
@@ -3840,7 +4000,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0202174</identifier>
+<identifier type="local">0012_000458_000161</identifier>
+<identifier type="cw">cw0202174</identifier>
 <identifier type="pid">acwiley:440</identifier>
 <identifier type="spc">record_spc_4982</identifier>
 <titleInfo><title>Yearbook illustrations in ink: class and year drawings</title></titleInfo>
@@ -3864,7 +4025,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0203175</identifier>
+<identifier type="local">0012_000458_000162</identifier>
+<identifier type="cw">cw0203175</identifier>
 <identifier type="pid">acwiley:441</identifier>
 <identifier type="spc">record_spc_4983</identifier>
 <titleInfo><title>Yearbook illustrations in ink: clubs</title></titleInfo>
@@ -3888,7 +4050,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0203176</identifier>
+<identifier type="local">0012_000458_000163</identifier>
+<identifier type="cw">cw0203176</identifier>
 <identifier type="pid">acwiley:442</identifier>
 <identifier type="spc">record_spc_4984</identifier>
 <titleInfo><title>Yearbook illustrations in ink: clubs</title></titleInfo>
@@ -3912,7 +4075,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0203177</identifier>
+<identifier type="local">0012_000458_000164</identifier>
+<identifier type="cw">cw0203177</identifier>
 <identifier type="pid">acwiley:443</identifier>
 <identifier type="spc">record_spc_4985</identifier>
 <titleInfo><title>Yearbook illustrations in ink: clubs</title></titleInfo>
@@ -3936,7 +4100,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0204178</identifier>
+<identifier type="local">0012_000458_000165</identifier>
+<identifier type="cw">cw0204178</identifier>
 <identifier type="pid">acwiley:444</identifier>
 <identifier type="spc">record_spc_4986</identifier>
 <titleInfo><title>Yearbook illustrations in ink: sports</title></titleInfo>
@@ -3960,7 +4125,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0204179</identifier>
+<identifier type="local">0012_000458_000166</identifier>
+<identifier type="cw">cw0204179</identifier>
 <identifier type="pid">acwiley:445</identifier>
 <identifier type="spc">record_spc_4987</identifier>
 <titleInfo><title>Yearbook illustrations in ink: sports</title></titleInfo>
@@ -3984,7 +4150,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0205182</identifier>
+<identifier type="local">0012_000458_000167</identifier>
+<identifier type="cw">cw0205182</identifier>
 <identifier type="pid">acwiley:446</identifier>
 <identifier type="spc">record_spc_4886</identifier>
 <titleInfo><title>Landscape sketches in charcoal</title></titleInfo>
@@ -4008,7 +4175,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0205183</identifier>
+<identifier type="local">0012_000458_000168</identifier>
+<identifier type="cw">cw0205183</identifier>
 <identifier type="pid">acwiley:447</identifier>
 <identifier type="spc">record_spc_4887</identifier>
 <titleInfo><title>Landscape sketches in charcoal</title></titleInfo>
@@ -4032,7 +4200,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0205184</identifier>
+<identifier type="local">0012_000458_000169</identifier>
+<identifier type="cw">cw0205184</identifier>
 <identifier type="pid">acwiley:448</identifier>
 <identifier type="spc">record_spc_4888</identifier>
 <titleInfo><title>Landscape sketches in charcoal</title></titleInfo>
@@ -4056,7 +4225,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0206185a</identifier>
+<identifier type="local">0012_000458_000170</identifier>
+<identifier type="cw">cw0206185a</identifier>
 <identifier type="pid">acwiley:449</identifier>
 <identifier type="spc">record_spc_4889</identifier>
 <titleInfo><title>Landscape sketches in charcoal</title></titleInfo>
@@ -4080,7 +4250,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0206185b</identifier>
+<identifier type="local">0012_000458_000171</identifier>
+<identifier type="cw">cw0206185b</identifier>
 <identifier type="pid">acwiley:450</identifier>
 <identifier type="spc">record_spc_4890</identifier>
 <titleInfo><title>Figure sketch in charcoal</title></titleInfo>
@@ -4104,7 +4275,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0206185c</identifier>
+<identifier type="local">0012_000458_000172</identifier>
+<identifier type="cw">cw0206185c</identifier>
 <identifier type="pid">acwiley:451</identifier>
 <identifier type="spc">record_spc_4891</identifier>
 <titleInfo><title>Figure sketch in charcoal</title></titleInfo>
@@ -4128,7 +4300,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0206185d</identifier>
+<identifier type="local">0012_000458_000173</identifier>
+<identifier type="cw">cw0206185d</identifier>
 <identifier type="pid">acwiley:452</identifier>
 <identifier type="spc">record_spc_4892</identifier>
 <titleInfo><title>Figure sketch in charcoal</title></titleInfo>
@@ -4152,7 +4325,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0206186a</identifier>
+<identifier type="local">0012_000458_000174</identifier>
+<identifier type="cw">cw0206186a</identifier>
 <identifier type="pid">acwiley:453</identifier>
 <identifier type="spc">record_spc_4893</identifier>
 <titleInfo><title>Figure sketch in charcoal</title></titleInfo>
@@ -4176,7 +4350,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0206186b</identifier>
+<identifier type="local">0012_000458_000175</identifier>
+<identifier type="cw">cw0206186b</identifier>
 <identifier type="pid">acwiley:454</identifier>
 <identifier type="spc">record_spc_4894</identifier>
 <titleInfo><title>Figure sketch in charcoal</title></titleInfo>
@@ -4200,7 +4375,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0206186c</identifier>
+<identifier type="local">0012_000458_000176</identifier>
+<identifier type="cw">cw0206186c</identifier>
 <identifier type="pid">acwiley:455</identifier>
 <identifier type="spc">record_spc_4895</identifier>
 <titleInfo><title>Figure sketch in charcoal</title></titleInfo>
@@ -4224,7 +4400,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0206186d</identifier>
+<identifier type="local">0012_000458_000177</identifier>
+<identifier type="cw">cw0206186d</identifier>
 <identifier type="pid">acwiley:456</identifier>
 <identifier type="spc">record_spc_4896</identifier>
 <titleInfo><title>Figure sketch in charcoal</title></titleInfo>
@@ -4247,387 +4424,4 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 </recordOrigin></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
-<mods>
-<identifier type="local">cw0207187</identifier>
-<identifier type="pid">acwiley:457</identifier>
-<identifier type="spc">record_spc_4897</identifier>
-<titleInfo><title>Knox Art Institute design in pencil</title></titleInfo>
-<abstract>Sketch, Knox Art Institute, pencils</abstract>
-<originInfo><dateCreated qualifier="approximate">1895-1897</dateCreated><dateCreated encoding="edtf" keyDate="yes" point="start">1895</dateCreated><dateCreated encoding="edtf" keyDate="yes" point="end">1897</dateCreated></originInfo>
-
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147554"><topic>Women in art</topic></subject>
-
-<subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961"><topic>Figure drawings</topic></subject>
-
-<name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
-<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
-<typeOfResource>still image</typeOfResource>
-<relatedItem displayLabel="Project" type="host"><titleInfo><title>Anna Catherine Wiley Sketches</title></titleInfo></relatedItem>
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Anna Catherine Wiley Sketches Collection</title></titleInfo><identifier>MS.1287</identifier><location><url>https://n2t.net/ark:/87290/v8vx0dpf</url></location></relatedItem>
-<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
-Created and edited in general conformance to MODS Guidelines (Version 3.5).
-</recordOrigin></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
-<identifier type="local">cw010108</identifier>
-
-
-<titleInfo><title>Color wheel sketch and notes on color theory</title></titleInfo>
-<abstract>Pencil drawing of color wheel, notes</abstract>
-<originInfo><dateCreated qualifier="approximate">1895-1897</dateCreated><dateCreated encoding="edtf" keyDate="yes" point="start">1895</dateCreated><dateCreated encoding="edtf" keyDate="yes" point="end">1897</dateCreated></originInfo>
-
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
-<subject authority="lcsh" valueURI=""><topic>Color in art</topic></subject>
-
-
-
-<name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
-<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
-<typeOfResource>still image</typeOfResource>
-<relatedItem displayLabel="Project" type="host"><titleInfo><title>Anna Catherine Wiley Sketches</title></titleInfo></relatedItem>
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Anna Catherine Wiley Sketches Collection</title></titleInfo><identifier>MS.1287</identifier><location><url>https://n2t.net/ark:/87290/v8vx0dpf</url></location></relatedItem>
-<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
-Created and edited in general conformance to MODS Guidelines (Version 3.5).
-</recordOrigin></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
-<identifier type="local">cw0120001</identifier>
-
-
-<titleInfo><title>Fragment of a letter to S. W. McCall, March 17,1910</title></titleInfo>
-<abstract>Letter promoting Wiley's artistic talent for a portrait commission  to represent past Speakers of the House of Representatives from Tennessee</abstract>
-
-<originInfo><dateCreated>March 17, 1910</dateCreated><dateCreated encoding="edtf">1910-03-17</dateCreated></originInfo>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85007987"><topic>Art commissions</topic></subject>
-
-
-
-<name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
-<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
-<typeOfResource>still image</typeOfResource>
-<relatedItem displayLabel="Project" type="host"><titleInfo><title>Anna Catherine Wiley Sketches</title></titleInfo></relatedItem>
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Anna Catherine Wiley Sketches Collection</title></titleInfo><identifier>MS.1287</identifier><location><url>https://n2t.net/ark:/87290/v8vx0dpf</url></location></relatedItem>
-<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
-Created and edited in general conformance to MODS Guidelines (Version 3.5).
-</recordOrigin></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
-<identifier type="local">cw0120002</identifier>
-
-
-<titleInfo><title>Letter from Alex McMillan to R. W. Austin, March 17, 1910</title></titleInfo>
-<abstract>Letter promoting Wiley's artistic talent for a portrait commission  to represent past Speakers of the House of Representatives from Tennessee</abstract>
-
-<originInfo><dateCreated>March 17, 1910</dateCreated><dateCreated encoding="edtf">1910-03-17</dateCreated></originInfo>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85007987"><topic>Art commissions</topic></subject>
-
-
-
-<name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
-<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
-<typeOfResource>still image</typeOfResource>
-<relatedItem displayLabel="Project" type="host"><titleInfo><title>Anna Catherine Wiley Sketches</title></titleInfo></relatedItem>
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Anna Catherine Wiley Sketches Collection</title></titleInfo><identifier>MS.1287</identifier><location><url>https://n2t.net/ark:/87290/v8vx0dpf</url></location></relatedItem>
-<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
-Created and edited in general conformance to MODS Guidelines (Version 3.5).
-</recordOrigin></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
-<identifier type="local">cw0120003</identifier>
-
-
-<titleInfo><title>Fragment of a letter to the Library Committee, March 16, 1910 </title></titleInfo>
-<abstract>Letter promoting Wiley's artistic talent for a portrait commission  to represent past Speakers of the House of Representatives from Tennessee</abstract>
-
-<originInfo><dateCreated>March 16, 1910</dateCreated><dateCreated encoding="edtf">1910-03-16</dateCreated></originInfo>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85007987"><topic>Art commissions</topic></subject>
-
-
-
-<name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
-<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
-<typeOfResource>still image</typeOfResource>
-<relatedItem displayLabel="Project" type="host"><titleInfo><title>Anna Catherine Wiley Sketches</title></titleInfo></relatedItem>
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Anna Catherine Wiley Sketches Collection</title></titleInfo><identifier>MS.1287</identifier><location><url>https://n2t.net/ark:/87290/v8vx0dpf</url></location></relatedItem>
-<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
-Created and edited in general conformance to MODS Guidelines (Version 3.5).
-</recordOrigin></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
-<identifier type="local">cw0120004</identifier>
-
-
-<titleInfo><title>Fragment of a letter from William Rule to S. W. McCall, March 17, 1910</title></titleInfo>
-<abstract>Letter promoting Wiley's artistic talent for a portrait commission  to represent past Speakers of the House of Representatives from Tennessee</abstract>
-
-<originInfo><dateCreated>March 17,1909</dateCreated><dateCreated encoding="edtf">1909-03-17</dateCreated></originInfo>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85007987"><topic>Art commissions</topic></subject>
-
-
-
-<name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
-<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
-<typeOfResource>still image</typeOfResource>
-<relatedItem displayLabel="Project" type="host"><titleInfo><title>Anna Catherine Wiley Sketches</title></titleInfo></relatedItem>
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Anna Catherine Wiley Sketches Collection</title></titleInfo><identifier>MS.1287</identifier><location><url>https://n2t.net/ark:/87290/v8vx0dpf</url></location></relatedItem>
-<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
-Created and edited in general conformance to MODS Guidelines (Version 3.5).
-</recordOrigin></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
-<identifier type="local">cw0120005</identifier>
-
-
-<titleInfo><title>Fragment of a letter from William J. Oliver, March 17, 1910</title></titleInfo>
-<abstract>Letter promoting Wiley's artwork</abstract>
-
-<originInfo><dateCreated>March 17, 1910</dateCreated><dateCreated encoding="edtf">1910-03-17</dateCreated></originInfo>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85007987"><topic>Art commissions</topic></subject>
-
-
-
-<name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
-<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
-<typeOfResource>still image</typeOfResource>
-<relatedItem displayLabel="Project" type="host"><titleInfo><title>Anna Catherine Wiley Sketches</title></titleInfo></relatedItem>
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Anna Catherine Wiley Sketches Collection</title></titleInfo><identifier>MS.1287</identifier><location><url>https://n2t.net/ark:/87290/v8vx0dpf</url></location></relatedItem>
-<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
-Created and edited in general conformance to MODS Guidelines (Version 3.5).
-</recordOrigin></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
-<identifier type="local">cw0120006</identifier>
-
-
-<titleInfo><title>Fragment of a letter from E. G. Oates to Katherine [sic] Wiley, March 19, 1910</title></titleInfo>
-<abstract>Letter acknowledging application</abstract>
-
-<originInfo><dateCreated>March 19, 1910</dateCreated><dateCreated encoding="edtf">1910-03-19</dateCreated></originInfo>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85007987"><topic>Art commissions</topic></subject>
-
-
-
-<name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
-<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
-<typeOfResource>still image</typeOfResource>
-<relatedItem displayLabel="Project" type="host"><titleInfo><title>Anna Catherine Wiley Sketches</title></titleInfo></relatedItem>
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Anna Catherine Wiley Sketches Collection</title></titleInfo><identifier>MS.1287</identifier><location><url>https://n2t.net/ark:/87290/v8vx0dpf</url></location></relatedItem>
-<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
-Created and edited in general conformance to MODS Guidelines (Version 3.5).
-</recordOrigin></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
-<identifier type="local">cw0120007</identifier>
-
-
-<titleInfo><title>Letter from M. E. Rideout, Jr. addressed to "Dear Sir"</title></titleInfo>
-<abstract>Rejection letter for House of Representatives commission</abstract>
-
-<originInfo><dateCreated>1910</dateCreated><dateCreated encoding="edtf">1910</dateCreated></originInfo>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85007987"><topic>Art commissions</topic></subject>
-
-
-
-<name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
-<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
-<typeOfResource>still image</typeOfResource>
-<relatedItem displayLabel="Project" type="host"><titleInfo><title>Anna Catherine Wiley Sketches</title></titleInfo></relatedItem>
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Anna Catherine Wiley Sketches Collection</title></titleInfo><identifier>MS.1287</identifier><location><url>https://n2t.net/ark:/87290/v8vx0dpf</url></location></relatedItem>
-<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
-Created and edited in general conformance to MODS Guidelines (Version 3.5).
-</recordOrigin></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
-<identifier type="local">cw0120008</identifier>
-
-
-<titleInfo><title>Letter to S. W. McCall, February 2, 1911</title></titleInfo>
-<abstract>Letter asking that Lloyd Branson and Catherine Wiley be considered for a portrait commission to represent past Speakers of the House of Representatives from Tennessee</abstract>
-
-<originInfo><dateCreated>February 2, 1911</dateCreated><dateCreated encoding="edtf">1911-02-02</dateCreated></originInfo>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85007987"><topic>Art commissions</topic></subject>
-
-
-
-<name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
-<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
-<typeOfResource>still image</typeOfResource>
-<relatedItem displayLabel="Project" type="host"><titleInfo><title>Anna Catherine Wiley Sketches</title></titleInfo></relatedItem>
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Anna Catherine Wiley Sketches Collection</title></titleInfo><identifier>MS.1287</identifier><location><url>https://n2t.net/ark:/87290/v8vx0dpf</url></location></relatedItem>
-<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
-Created and edited in general conformance to MODS Guidelines (Version 3.5).
-</recordOrigin></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
-<identifier type="local">cw0120009</identifier>
-
-
-<titleInfo><title>Letter from the Knoxville Sentinel, March 19, 1910</title></titleInfo>
-<abstract>Letter promoting Wiley's artwork</abstract>
-
-<originInfo><dateCreated>March 19, 1910</dateCreated><dateCreated encoding="edtf">1910-03-19</dateCreated></originInfo>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85007987"><topic>Art commissions</topic></subject>
-
-
-
-<name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
-<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
-<typeOfResource>still image</typeOfResource>
-<relatedItem displayLabel="Project" type="host"><titleInfo><title>Anna Catherine Wiley Sketches</title></titleInfo></relatedItem>
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Anna Catherine Wiley Sketches Collection</title></titleInfo><identifier>MS.1287</identifier><location><url>https://n2t.net/ark:/87290/v8vx0dpf</url></location></relatedItem>
-<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
-Created and edited in general conformance to MODS Guidelines (Version 3.5).
-</recordOrigin></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
-<identifier type="local">cw0120010</identifier>
-
-
-<titleInfo><title>Fragment of a letter to S. W. McCall, March 17,1910</title></titleInfo>
-<abstract>Letter promoting Wiley's artistic talent for a portrait commission  to represent past Speakers of the House of Representatives from Tennessee</abstract>
-
-<originInfo><dateCreated>March 19, 1910</dateCreated><dateCreated encoding="edtf">1910-03-19</dateCreated></originInfo>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85007987"><topic>Art commissions</topic></subject>
-
-
-
-<name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
-<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
-<typeOfResource>still image</typeOfResource>
-<relatedItem displayLabel="Project" type="host"><titleInfo><title>Anna Catherine Wiley Sketches</title></titleInfo></relatedItem>
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Anna Catherine Wiley Sketches Collection</title></titleInfo><identifier>MS.1287</identifier><location><url>https://n2t.net/ark:/87290/v8vx0dpf</url></location></relatedItem>
-<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
-Created and edited in general conformance to MODS Guidelines (Version 3.5).
-</recordOrigin></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
-<identifier type="local">cw0120011</identifier>
-
-
-<titleInfo><title>Fragment of a handwritten letter to S. W. McCall</title></titleInfo>
-<abstract>Letter promoting Wiley's artistic talent for a portrait commission  to represent past Speakers of the House of Representatives from Tennessee</abstract>
-
-<originInfo><dateCreated>1910</dateCreated><dateCreated encoding="edtf">1910</dateCreated></originInfo>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85007987"><topic>Art commissions</topic></subject>
-
-
-
-<name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
-<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
-<typeOfResource>still image</typeOfResource>
-<relatedItem displayLabel="Project" type="host"><titleInfo><title>Anna Catherine Wiley Sketches</title></titleInfo></relatedItem>
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Anna Catherine Wiley Sketches Collection</title></titleInfo><identifier>MS.1287</identifier><location><url>https://n2t.net/ark:/87290/v8vx0dpf</url></location></relatedItem>
-<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
-Created and edited in general conformance to MODS Guidelines (Version 3.5).
-</recordOrigin></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
-<identifier type="local">cw0120012</identifier>
-
-
-<titleInfo><title>Fragment of a letter to R. W. Austin, March 22, 1910</title></titleInfo>
-<abstract>Letter providing Wiley's application materials to a selection committee</abstract>
-
-<originInfo><dateCreated>March 22, 1910</dateCreated><dateCreated encoding="edtf">1910-03-22</dateCreated></originInfo>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85007987"><topic>Art commissions</topic></subject>
-
-
-
-<name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
-<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
-<typeOfResource>still image</typeOfResource>
-<relatedItem displayLabel="Project" type="host"><titleInfo><title>Anna Catherine Wiley Sketches</title></titleInfo></relatedItem>
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Anna Catherine Wiley Sketches Collection</title></titleInfo><identifier>MS.1287</identifier><location><url>https://n2t.net/ark:/87290/v8vx0dpf</url></location></relatedItem>
-<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
-Created and edited in general conformance to MODS Guidelines (Version 3.5).
-</recordOrigin></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
-<identifier type="local">cw0120013</identifier>
-
-
-<titleInfo><title>Letter from R. W. Austin to S. W. McCall, March 19, 1910</title></titleInfo>
-<abstract>Letter related to House of Representatives portrait commission </abstract>
-
-<originInfo><dateCreated>March 19, 1910</dateCreated><dateCreated encoding="edtf">1910-03-19</dateCreated></originInfo>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85007987"><topic>Art commissions</topic></subject>
-
-
-
-<name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
-<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
-<typeOfResource>still image</typeOfResource>
-<relatedItem displayLabel="Project" type="host"><titleInfo><title>Anna Catherine Wiley Sketches</title></titleInfo></relatedItem>
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Anna Catherine Wiley Sketches Collection</title></titleInfo><identifier>MS.1287</identifier><location><url>https://n2t.net/ark:/87290/v8vx0dpf</url></location></relatedItem>
-<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
-Created and edited in general conformance to MODS Guidelines (Version 3.5).
-</recordOrigin></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods>
-<mods>
-<identifier type="local">cw0120014</identifier>
-
-
-<titleInfo><title>Letter from William J. Oliver to R. W. Austin, March 18, 1910</title></titleInfo>
-<abstract>Letter promoting Wiley's artistic talent for a portrait commission  to represent past Speakers of the House of Representatives from Tennessee</abstract>
-
-<originInfo><dateCreated>March 18, 1910</dateCreated><dateCreated encoding="edtf">1910-03-18</dateCreated></originInfo>
-<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85007987"><topic>Art commissions</topic></subject>
-
-
-
-<name valueURI="http://id.loc.gov/authorities/names/nr92031762"><namePart>Wiley, Catherine, 1879-1958</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>
-<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
-<typeOfResource>still image</typeOfResource>
-<relatedItem displayLabel="Project" type="host"><titleInfo><title>Anna Catherine Wiley Sketches</title></titleInfo></relatedItem>
-<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Anna Catherine Wiley Sketches Collection</title></titleInfo><identifier>MS.1287</identifier><location><url>https://n2t.net/ark:/87290/v8vx0dpf</url></location></relatedItem>
-<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
-Created and edited in general conformance to MODS Guidelines (Version 3.5).
-</recordOrigin></recordInfo>
-<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
-</mods></modsCollection>
+</modsCollection>
