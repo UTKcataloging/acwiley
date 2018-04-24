@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
-<identifier type="local">cw010108</identifier>
+<identifier type="local">0012_000458_000179</identifier>
+<identifier type="cw">cw010108</identifier>
 
 
 <titleInfo><title>Color wheel sketch and notes on color theory</title></titleInfo>
@@ -24,11 +25,12 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0120001</identifier>
+<identifier type="local">0012_000458_000180</identifier>
+<identifier type="cw">cw0120001</identifier>
 
 
 <titleInfo><title>Fragment of a letter to S. W. McCall, March 17,1910</title></titleInfo>
-<abstract>Letter promoting Wiley's artistic talent for a portrait commission  to represent past Speakers of the House of Representatives from Tennessee</abstract>
+<abstract>Letter promoting Wiley's artistic talent for a portrait commission to represent past Speakers of the House of Representatives from Tennessee</abstract>
 
 <originInfo><dateCreated>March 17, 1910</dateCreated><dateCreated encoding="edtf">1910-03-17</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
@@ -48,11 +50,12 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0120002</identifier>
+<identifier type="local">0012_000458_000181</identifier>
+<identifier type="cw">cw0120002</identifier>
 
 
 <titleInfo><title>Letter from Alex McMillan to R. W. Austin, March 17, 1910</title></titleInfo>
-<abstract>Letter promoting Wiley's artistic talent for a portrait commission  to represent past Speakers of the House of Representatives from Tennessee</abstract>
+<abstract>Letter promoting Wiley's artistic talent for a portrait commission to represent past Speakers of the House of Representatives from Tennessee</abstract>
 
 <originInfo><dateCreated>March 17, 1910</dateCreated><dateCreated encoding="edtf">1910-03-17</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
@@ -72,11 +75,12 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0120003</identifier>
+<identifier type="local">0012_000458_000182</identifier>
+<identifier type="cw">cw0120003</identifier>
 
 
 <titleInfo><title>Fragment of a letter to the Library Committee, March 16, 1910 </title></titleInfo>
-<abstract>Letter promoting Wiley's artistic talent for a portrait commission  to represent past Speakers of the House of Representatives from Tennessee</abstract>
+<abstract>Letter promoting Wiley's artistic talent for a portrait commission to represent past Speakers of the House of Representatives from Tennessee</abstract>
 
 <originInfo><dateCreated>March 16, 1910</dateCreated><dateCreated encoding="edtf">1910-03-16</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
@@ -96,11 +100,12 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0120004</identifier>
+<identifier type="local">0012_000458_000183</identifier>
+<identifier type="cw">cw0120004</identifier>
 
 
 <titleInfo><title>Fragment of a letter from William Rule to S. W. McCall, March 17, 1910</title></titleInfo>
-<abstract>Letter promoting Wiley's artistic talent for a portrait commission  to represent past Speakers of the House of Representatives from Tennessee</abstract>
+<abstract>Letter promoting Wiley's artistic talent for a portrait commission to represent past Speakers of the House of Representatives from Tennessee</abstract>
 
 <originInfo><dateCreated>March 17,1909</dateCreated><dateCreated encoding="edtf">1909-03-17</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
@@ -120,7 +125,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0120005</identifier>
+<identifier type="local">0012_000458_000184</identifier>
+<identifier type="cw">cw0120005</identifier>
 
 
 <titleInfo><title>Fragment of a letter from William J. Oliver, March 17, 1910</title></titleInfo>
@@ -144,7 +150,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0120006</identifier>
+<identifier type="local">0012_000458_000185</identifier>
+<identifier type="cw">cw0120006</identifier>
 
 
 <titleInfo><title>Fragment of a letter from E. G. Oates to Katherine [sic] Wiley, March 19, 1910</title></titleInfo>
@@ -168,7 +175,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0120007</identifier>
+<identifier type="local">0012_000458_000186</identifier>
+<identifier type="cw">cw0120007</identifier>
 
 
 <titleInfo><title>Letter from M. E. Rideout, Jr. addressed to "Dear Sir"</title></titleInfo>
@@ -192,7 +200,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0120008</identifier>
+<identifier type="local">0012_000458_000187</identifier>
+<identifier type="cw">cw0120008</identifier>
 
 
 <titleInfo><title>Letter to S. W. McCall, February 2, 1911</title></titleInfo>
@@ -216,7 +225,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0120009</identifier>
+<identifier type="local">0012_000458_000188</identifier>
+<identifier type="cw">cw0120009</identifier>
 
 
 <titleInfo><title>Letter from the Knoxville Sentinel, March 19, 1910</title></titleInfo>
@@ -240,11 +250,12 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0120010</identifier>
+<identifier type="local">0012_000458_000189</identifier>
+<identifier type="cw">cw0120010</identifier>
 
 
 <titleInfo><title>Fragment of a letter to S. W. McCall, March 17,1910</title></titleInfo>
-<abstract>Letter promoting Wiley's artistic talent for a portrait commission  to represent past Speakers of the House of Representatives from Tennessee</abstract>
+<abstract>Letter promoting Wiley's artistic talent for a portrait commission to represent past Speakers of the House of Representatives from Tennessee</abstract>
 
 <originInfo><dateCreated>March 19, 1910</dateCreated><dateCreated encoding="edtf">1910-03-19</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
@@ -264,11 +275,12 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0120011</identifier>
+<identifier type="local">0012_000458_000190</identifier>
+<identifier type="cw">cw0120011</identifier>
 
 
 <titleInfo><title>Fragment of a handwritten letter to S. W. McCall</title></titleInfo>
-<abstract>Letter promoting Wiley's artistic talent for a portrait commission  to represent past Speakers of the House of Representatives from Tennessee</abstract>
+<abstract>Letter promoting Wiley's artistic talent for a portrait commission to represent past Speakers of the House of Representatives from Tennessee</abstract>
 
 <originInfo><dateCreated>1910</dateCreated><dateCreated encoding="edtf">1910</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
@@ -288,7 +300,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0120012</identifier>
+<identifier type="local">0012_000458_000191</identifier>
+<identifier type="cw">cw0120012</identifier>
 
 
 <titleInfo><title>Fragment of a letter to R. W. Austin, March 22, 1910</title></titleInfo>
@@ -312,7 +325,8 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0120013</identifier>
+<identifier type="local">0012_000458_000192</identifier>
+<identifier type="cw">cw0120013</identifier>
 
 
 <titleInfo><title>Letter from R. W. Austin to S. W. McCall, March 19, 1910</title></titleInfo>
@@ -336,11 +350,12 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 <mods>
-<identifier type="local">cw0120014</identifier>
+<identifier type="local">0012_000458_000193</identifier>
+<identifier type="cw">cw0120014</identifier>
 
 
 <titleInfo><title>Letter from William J. Oliver to R. W. Austin, March 18, 1910</title></titleInfo>
-<abstract>Letter promoting Wiley's artistic talent for a portrait commission  to represent past Speakers of the House of Representatives from Tennessee</abstract>
+<abstract>Letter promoting Wiley's artistic talent for a portrait commission to represent past Speakers of the House of Representatives from Tennessee</abstract>
 
 <originInfo><dateCreated>March 18, 1910</dateCreated><dateCreated encoding="edtf">1910-03-18</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form><internetMediaType>image/jpeg</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
