@@ -13,7 +13,8 @@
 
 ```
 <mods>
-{{if(isBlank(cells["metadata.mods.identifier.0#text"].value), '', '<identifier type="local">' + cells["metadata.mods.identifier.0#text"].value + '</identifier>')}}
+<identifier type="local">{{cells["adminDB"].value}}</identifier>
+{{if(isBlank(cells["metadata.mods.identifier.0#text"].value), '', '<identifier type="cw">' + cells["metadata.mods.identifier.0#text"].value + '</identifier>')}}
 {{if(isBlank(cells["PID"].value), '', '<identifier type="pid">' + cells["PID"].value + '</identifier>')}}
 {{if(isBlank(cells["metadata.mods.recordInforecordIdentifier"].value), '', '<identifier type="spc">' + cells["metadata.mods.recordInforecordIdentifier"].value + '</identifier>')}}
 {{if(isBlank(cells["metadata.mods.titleInfotitle"].value),'', '<titleInfo><title>' + cells['metadata.mods.titleInfotitle'].value + '</title></titleInfo>')}}
