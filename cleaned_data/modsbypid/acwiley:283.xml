@@ -4,7 +4,8 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">cw010104</identifier>
+   <identifier type="local">0012_000458_000004</identifier>
+   <identifier type="cw">cw010104</identifier>
    <identifier type="pid">acwiley:283</identifier>
    <identifier type="spc">record_spc_4949</identifier>
    <titleInfo>
@@ -26,8 +27,8 @@
       <topic>Women in art</topic>
    </subject>
    <subject authority="tgm"
-            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961">
-      <topic>Figure drawings</topic>
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008085">
+      <topic>Portraits</topic>
    </subject>
    <name valueURI="http://id.loc.gov/authorities/names/nr92031762">
       <namePart>Wiley, Catherine, 1879-1958</namePart>

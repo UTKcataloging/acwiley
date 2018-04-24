@@ -4,7 +4,8 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">cw0206185a</identifier>
+   <identifier type="local">0012_000458_000170</identifier>
+   <identifier type="cw">cw0206185a</identifier>
    <identifier type="pid">acwiley:449</identifier>
    <identifier type="spc">record_spc_4889</identifier>
    <titleInfo>
