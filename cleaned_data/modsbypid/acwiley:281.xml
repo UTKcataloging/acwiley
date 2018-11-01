@@ -30,6 +30,10 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85119780">
       <topic>Self-portraits</topic>
    </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85147447">
+      <topic>Women artists</topic>
+   </subject>
    <subject authority="tgm"
             valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008085">
       <topic>Portraits</topic>

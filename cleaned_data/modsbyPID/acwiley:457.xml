@@ -4,14 +4,14 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">0012_000458_000083</identifier>
-   <identifier type="cw">cw011184</identifier>
-   <identifier type="pid">acwiley:362</identifier>
-   <identifier type="spc">record_spc_4871</identifier>
+   <identifier type="local">0012_000458_000178</identifier>
+   <identifier type="cw">cw0207187</identifier>
+   <identifier type="pid">acwiley:457</identifier>
+   <identifier type="spc">record_spc_4897</identifier>
    <titleInfo>
-      <title>Pencil figure drawing of a child</title>
+      <title>Knox Art Institute design in pencil</title>
    </titleInfo>
-   <abstract>Figure study, pencils</abstract>
+   <abstract>Sketch, Knox Art Institute, pencils</abstract>
    <originInfo>
       <dateCreated qualifier="approximate">1895-1897</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1895</dateCreated>
@@ -23,8 +23,8 @@
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85023533">
-      <topic>Children in art</topic>
+            valueURI="http://id.loc.gov/authorities/subjects/sh85147554">
+      <topic>Women in art</topic>
    </subject>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85147447">

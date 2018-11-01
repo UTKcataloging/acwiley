@@ -4,14 +4,12 @@
       xmlns:xlink="http://www.w3.org/1999/xlink"
       xmlns:xs="http://www.w3.org/2001/XMLSchema"
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <identifier type="local">0012_000458_000083</identifier>
-   <identifier type="cw">cw011184</identifier>
-   <identifier type="pid">acwiley:362</identifier>
-   <identifier type="spc">record_spc_4871</identifier>
+   <identifier type="local">0012_000458_000179</identifier>
+   <identifier type="cw">cw010108</identifier>
    <titleInfo>
-      <title>Pencil figure drawing of a child</title>
+      <title>Color wheel sketch and notes on color theory</title>
    </titleInfo>
-   <abstract>Figure study, pencils</abstract>
+   <abstract>Pencil drawing of color wheel, notes</abstract>
    <originInfo>
       <dateCreated qualifier="approximate">1895-1897</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1895</dateCreated>
@@ -22,17 +20,12 @@
       <internetMediaType>image/jpeg</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85023533">
-      <topic>Children in art</topic>
+   <subject authority="lcsh" valueURI="">
+      <topic>Color in art</topic>
    </subject>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85147447">
       <topic>Women artists</topic>
-   </subject>
-   <subject authority="tgm"
-            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961">
-      <topic>Figure drawings</topic>
    </subject>
    <name valueURI="http://id.loc.gov/authorities/names/nr92031762">
       <namePart>Wiley, Catherine, 1879-1958</namePart>

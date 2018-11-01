@@ -23,21 +23,6 @@
                                     </list>
                                 </field>
                             </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>modscollection.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>wiley</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
                         </scenarioAssociation-array>
                     </entry>
                     <entry>
@@ -48,7 +33,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>wiley</String>
+                                    <String>modscollection_newtoIslandora</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -134,7 +119,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>modscollection_newtoIslandora</String>
+                                    <String>wiley</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
