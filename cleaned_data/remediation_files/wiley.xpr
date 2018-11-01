@@ -10,11 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>modscollection_newtoIslandora.xml</String>
+                                    <String>modscollection.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>modscollection_newtoIslandora</String>
+                                        <String>wiley</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -25,11 +25,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>modscollection.xml</String>
+                                    <String>modscollection_newtoIslandora.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>wiley</String>
+                                        <String>modscollection_newtoIslandora</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -48,7 +48,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>wiley</String>
+                                    <String>modscollection_newtoIslandora</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -134,7 +134,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>modscollection_newtoIslandora</String>
+                                    <String>wiley</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
