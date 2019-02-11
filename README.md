@@ -8,6 +8,7 @@ Metadata for the migration of the Anna Catherine Wiley Sketches (part of special
 
 ```
 |-- cleaned_data
+    |-- collection_record.xml
     |-- modsbypid
       |--acwiley:280.xml
       |--acwiley:281.xml

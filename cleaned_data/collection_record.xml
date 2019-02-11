@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleInfo>
+        <title>Anna Catherine Wiley Sketches</title>
+    </titleInfo>
+    <name valueURI="http://id.loc.gov/authorities/names/nr92031762">
+        <namePart>Wiley, Catherine, 1879-1958</namePart>
+        <role>
+            <roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm>
+        </role>
+    </name>
+    <typeOfResource collection="yes">still image</typeOfResource>
+    <originInfo>
+        <dateCreated encoding="edtf" point="start">1895</dateCreated>
+        <dateCreated encoding="edtf" point="end">1911</dateCreated>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+    </language>
+    <abstract>This digital collection comprises over 150 of Anna Catherine Wiley’s early works, illustrating her development as an artist. The pieces include figure drawings, pencil sketches, and bookplate designs as well as her ink illustrations for the University of Tennessee’s yearbook, The Volunteer. Wiley, an impressionist painter and educator, was a key figure in the early 20th century art community of Knoxville and the larger East Tennessee region. Born in Coal Creek, Tennessee in 1879, Wiley moved with her family at the age of three to Knoxville. Wiley attended the University of Tennessee in the 1890s before moving to New York in 1903 to study with the Arts Student League. In New York, Wiley was exposed to a wide range of artists and art movements, including Impressionists such as William Merritt Chase who influenced her work. In 1905, Wiley returned to the University of Tennessee to teach art and quickly became a leader in the area’s art community. Her work earned numerous awards and was exhibited in major galleries across the country.
+    </abstract>
+    <physicalDescription>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300015617">sketches</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026879">letters (correspondence)</form>
+        <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027221">posters</form>
+        <extent>179 sketches, 14 letters, 2 posters</extent>
+    </physicalDescription>
+    <subject>
+        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147447">Women artists</topic>
+        <topic authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961">Figure drawings</topic>
+        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147554">Women in art</topic>
+        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85083526">Men in art</topic>
+        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85149058">Yearbooks</topic>
+    </subject>
+    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">
+        <geographic>Knoxville (Tenn.)</geographic>
+        <cartographics>
+            <coordinates>35.96064, -83.92074</coordinates>
+        </cartographics>
+    </subject>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>Anna Catherine Wiley Sketches Collection</title>
+        </titleInfo>
+        <identifier>MS.1287</identifier>
+        <location>
+            <url>https://n2t.net/ark:/87290/v8vx0dpf</url>
+        </location>
+    </relatedItem>
+    <location>
+        <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
+            University of Tennessee, Knoxville. Special Collections
+        </physicalLocation>
+    </location>
+    <recordInfo>
+        <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+    </recordInfo>
+    <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
