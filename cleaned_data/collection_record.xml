@@ -25,12 +25,20 @@
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027221">posters</form>
         <extent>179 sketches, 14 letters, 2 posters</extent>
     </physicalDescription>
-    <subject>
-        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147447">Women artists</topic>
-        <topic authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961">Figure drawings</topic>
-        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147554">Women in art</topic>
-        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85083526">Men in art</topic>
-        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85149058">Yearbooks</topic>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147447">
+        <topic>Women artists</topic>
+    </subject>
+    <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003961">
+        <topic>Figure drawings</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85147554">
+        <topic>Women in art</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85083526">
+        <topic>Men in art</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85149058">
+        <topic>Yearbooks</topic>
     </subject>
     <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786">
         <geographic>Knoxville (Tenn.)</geographic>
