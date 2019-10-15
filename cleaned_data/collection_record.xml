@@ -55,6 +55,14 @@
             <url>https://n2t.net/ark:/87290/v8vx0dpf</url>
         </location>
     </relatedItem>
+    <relatedItem displayLabel="Featured Item">
+        <titleInfo>
+            <title>Yearbook Illustrations in Ink: Academic</title>
+        </titleInfo>
+        <identifier type="pid">acwiley:427</identifier>
+        <abstract>Illustration, inks.</abstract>
+        <dateCreated>1895-1897</dateCreated>
+    </relatedItem>
     <location>
         <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
             University of Tennessee, Knoxville. Special Collections
