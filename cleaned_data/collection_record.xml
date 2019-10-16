@@ -61,7 +61,9 @@
         </titleInfo>
         <identifier type="pid">acwiley:427</identifier>
         <abstract>Illustration, inks.</abstract>
-        <dateCreated>1895-1897</dateCreated>
+        <originInfo>
+            <dateCreated>1895-1897</dateCreated>
+        </originInfo>
     </relatedItem>
     <location>
         <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
