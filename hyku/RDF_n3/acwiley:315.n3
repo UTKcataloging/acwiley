@@ -1,21 +1,20 @@
-<http://utk-metadata-object/acwiley:315> <http://purl.org/dc/terms/title> "Charcoal figure drawing of woman standing" .
-<http://utk-metadata-object/acwiley:315> <http://purl.org/dc/terms/subject> <http://id.loc.gov/vocabulary/graphicMaterials/tgm003961> .
 <http://utk-metadata-object/acwiley:315> <http://dbpedia.org/ontology/collection> "Anna Catherine Wiley Sketches Collection, MS.1287" .
-<http://utk-metadata-object/acwiley:315> <https://dbpedia.org/ontology/completionDate> "1895/1897" .
-<http://utk-metadata-object/acwiley:315> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300015617> .
-<http://utk-metadata-object/acwiley:315> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
-<http://utk-metadata-object/acwiley:315> <http://purl.org/dc/terms/created> "1895-1897" .
-<http://utk-metadata-object/acwiley:315> <http://purl.org/dc/terms/language> <http://id.loc.gov/vocabulary/iso639-2/eng> .
-<http://utk-metadata-object/acwiley:315> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
-<http://utk-metadata-object/acwiley:315> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4825" .
-<http://utk-metadata-object/acwiley:315> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85147554> .
-<http://utk-metadata-object/acwiley:315> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000458_000036" .
-<http://utk-metadata-object/acwiley:315> <http://id.loc.gov/vocabulary/relators/art> <http://id.loc.gov/authorities/names/nr92031762> .
 <http://utk-metadata-object/acwiley:315> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85147447> .
+<http://utk-metadata-object/acwiley:315> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300015617> .
+<http://utk-metadata-object/acwiley:315> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/acwiley:315> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85147554> .
+<http://utk-metadata-object/acwiley:315> <http://id.loc.gov/vocabulary/relators/art> <http://id.loc.gov/authorities/names/nr92031762> .
+<http://utk-metadata-object/acwiley:315> <http://purl.org/dc/terms/abstract> "Standing figure study, charcoal" .
 <http://utk-metadata-object/acwiley:315> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/acwiley:315> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/acwiley:315> <http://purl.org/dc/terms/language> <http://id.loc.gov/vocabulary/iso639-2/zxx> .
+<http://utk-metadata-object/acwiley:315> <http://purl.org/dc/terms/title> "Charcoal figure drawing of woman standing" .
+<http://utk-metadata-object/acwiley:315> <http://id.loc.gov/vocabulary/identifiers/local> "cw010526" .
+<http://utk-metadata-object/acwiley:315> <https://dbpedia.org/ontology/completionDate> "1895/1897" .
+<http://utk-metadata-object/acwiley:315> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4825" .
 <http://utk-metadata-object/acwiley:315> <http://id.loc.gov/vocabulary/identifiers/local> "acwiley:315" .
 <http://utk-metadata-object/acwiley:315> <http://dbpedia.org/ontology/isPartOf> <https://n2t.net/ark:/87290/v8vx0dpf> .
-<http://utk-metadata-object/acwiley:315> <http://id.loc.gov/vocabulary/identifiers/local> "cw010526" .
-<http://utk-metadata-object/acwiley:315> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
-<http://utk-metadata-object/acwiley:315> <http://purl.org/dc/terms/abstract> "Standing figure study, charcoal" .
 <http://utk-metadata-object/acwiley:315> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/InC/1.0/> .
+<http://utk-metadata-object/acwiley:315> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000458_000036" .
+<http://utk-metadata-object/acwiley:315> <http://purl.org/dc/terms/subject> <http://id.loc.gov/vocabulary/graphicMaterials/tgm003961> .
+<http://utk-metadata-object/acwiley:315> <http://purl.org/dc/terms/created> "1895-1897" .

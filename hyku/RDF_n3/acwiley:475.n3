@@ -1,21 +1,19 @@
-<http://utk-metadata-object/acwiley:475> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
-<http://utk-metadata-object/acwiley:475> <http://dbpedia.org/ontology/isPartOf> <https://n2t.net/ark:/87290/v8vx0dpf> .
-<http://utk-metadata-object/acwiley:475> <http://id.loc.gov/vocabulary/identifiers/local> "cw0204180" .
-<http://utk-metadata-object/acwiley:475> <https://ontology.lib.utk.edu/roles#pbl> "Norris & Winter" .
-<http://utk-metadata-object/acwiley:475> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000458_000194" .
+<http://utk-metadata-object/acwiley:475> <http://purl.org/dc/terms/created> "March 23, 1905" .
 <http://utk-metadata-object/acwiley:475> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Tennessee" .
-<http://utk-metadata-object/acwiley:475> <http://purl.org/dc/terms/title> "Tennessee Baseball poster" .
-<http://utk-metadata-object/acwiley:475> <http://id.loc.gov/vocabulary/relators/art> <http://id.loc.gov/authorities/names/nr92031762> .
-<http://utk-metadata-object/acwiley:475> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
-<http://utk-metadata-object/acwiley:475> <https://dbpedia.org/ontology/completionDate> "1909" .
-<http://utk-metadata-object/acwiley:475> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/InC/1.0/> .
-<http://utk-metadata-object/acwiley:475> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
-<http://utk-metadata-object/acwiley:475> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.75035, -86.25027" .
-<http://utk-metadata-object/acwiley:475> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh96011397> .
-<http://utk-metadata-object/acwiley:475> <http://purl.org/dc/terms/language> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://utk-metadata-object/acwiley:475> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000458_000194" .
+<http://utk-metadata-object/acwiley:475> <https://ontology.lib.utk.edu/roles#pbl> "Norris & Winter" .
 <http://utk-metadata-object/acwiley:475> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300027221> .
-<http://utk-metadata-object/acwiley:475> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
 <http://utk-metadata-object/acwiley:475> <http://purl.org/dc/terms/abstract> "Poster of male baseball player pitching" .
-<http://utk-metadata-object/acwiley:475> <http://purl.org/dc/terms/created> "1909" .
+<http://utk-metadata-object/acwiley:475> <http://purl.org/dc/terms/language> <http://id.loc.gov/vocabulary/iso639-2/eng> .
 <http://utk-metadata-object/acwiley:475> <http://dbpedia.org/ontology/collection> "Anna Catherine Wiley Sketches Collection, MS.1287" .
+<http://utk-metadata-object/acwiley:475> <http://id.loc.gov/vocabulary/identifiers/local> "cw0204180" .
+<http://utk-metadata-object/acwiley:475> <https://dbpedia.org/ontology/completionDate> "1905-03-23" .
+<http://utk-metadata-object/acwiley:475> <http://id.loc.gov/vocabulary/relators/art> <http://id.loc.gov/authorities/names/nr92031762> .
+<http://utk-metadata-object/acwiley:475> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh96011397> .
+<http://utk-metadata-object/acwiley:475> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/acwiley:475> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/acwiley:475> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/InC/1.0/> .
+<http://utk-metadata-object/acwiley:475> <http://dbpedia.org/ontology/isPartOf> <https://n2t.net/ark:/87290/v8vx0dpf> .
+<http://utk-metadata-object/acwiley:475> <http://purl.org/dc/terms/title> "Tennessee Baseball poster" .
 <http://utk-metadata-object/acwiley:475> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85126943> .
+<http://utk-metadata-object/acwiley:475> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
