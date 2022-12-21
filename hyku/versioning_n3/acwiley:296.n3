@@ -1,0 +1,21 @@
+<http://utk-metadata-object/acwiley:296> <http://purl.org/dc/terms/title> "Pencil drawn portrait study of man" .
+<http://utk-metadata-object/acwiley:296> <http://purl.org/dc/terms/language> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://utk-metadata-object/acwiley:296> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85147447> .
+<http://utk-metadata-object/acwiley:296> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85083526> .
+<http://utk-metadata-object/acwiley:296> <http://id.loc.gov/vocabulary/identifiers/local> "cw010218" .
+<http://utk-metadata-object/acwiley:296> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/acwiley:296> <http://dbpedia.org/ontology/isPartOf> <https://n2t.net/ark:/87290/v8vx0dpf> .
+<http://utk-metadata-object/acwiley:296> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300015617> .
+<http://utk-metadata-object/acwiley:296> <http://purl.org/dc/terms/subject> <http://id.loc.gov/vocabulary/graphicMaterials/tgm008085> .
+<http://utk-metadata-object/acwiley:296> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/acwiley:296> <https://dbpedia.org/ontology/completionDate> "1895/1897" .
+<http://utk-metadata-object/acwiley:296> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/InC/1.0/> .
+<http://utk-metadata-object/acwiley:296> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4962" .
+<http://utk-metadata-object/acwiley:296> <http://id.loc.gov/vocabulary/identifiers/local> "acwiley:296" .
+<http://utk-metadata-object/acwiley:296> <http://dbpedia.org/ontology/collection> "Anna Catherine Wiley Sketches Collection, MS.1287" .
+<http://utk-metadata-object/acwiley:296> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000458_000017" .
+<http://utk-metadata-object/acwiley:296> <http://purl.org/dc/terms/abstract> "Portrait study, pencils" .
+<http://utk-metadata-object/acwiley:296> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/acwiley:296> <http://purl.org/dc/terms/created> "1895-1897" .
+<http://utk-metadata-object/acwiley:296> <http://id.loc.gov/vocabulary/relators/art> <http://id.loc.gov/authorities/names/nr92031762> .
+<http://utk-metadata-object/acwiley:296> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
